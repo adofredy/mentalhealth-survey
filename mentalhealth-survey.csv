@@ -1,0 +1,1001 @@
+ID,Edad,Peso (kg),Estatura (m),Género,Salario (S/),Número de Hijos,Estado Civil,Lugar de Nacimiento,Profesión,Años de Experiencia,Coeficiente Intelectual (IQ),Nivel de Depresión (BDI),Gravedad depresión
+1,26,98.7,1.99,F,5102,1,Soltero,Arequipa,Desarrollador,38,99,39,Severa
+2,59,74,1.98,M,8242,2,Soltero,Piura,Abogado,21,114,13,Mínima
+3,50,95.8,1.87,M,2735,0,Divorciado,Tacna,Psicólogo,5,108,54,Severa
+4,42,69.9,1.92,F,3670,4,Divorciado,Áncash,Arquitecto,28,99,58,Severa
+5,60,78.8,1.83,F,8853,0,Divorciado,Callao,Periodista,31,85,42,Severa
+6,18,76.4,1.73,M,5680,5,Divorciado,Ica,Economista,23,98,13,Mínima
+7,20,99.2,1.94,M,4206,4,Casado,Tacna,Técnico,25,103,11,Mínima
+8,18,52,1.71,M,8144,5,Soltero,Pasco,Diseñador,7,101,60,Severa
+9,48,59.8,1.56,M,7135,3,Soltero,Loreto,Diseñador,40,104,9,Mínima
+10,36,50.4,1.7,F,1746,1,Casado,Loreto,Médico,9,116,17,Leve
+11,53,68.4,1.69,F,1806,0,Soltero,Puno,Médico,5,105,52,Severa
+12,36,65.5,1.93,F,4791,3,Casado,Tacna,Técnico,37,101,13,Mínima
+13,22,75.5,1.51,M,1702,2,Divorciado,Ucayali,Administrador,7,75,31,Severa
+14,22,71.4,1.58,M,9465,2,Casado,Áncash,Enfermero,37,114,26,Moderada
+15,26,86.5,1.78,M,2968,5,Soltero,Ica,Técnico,12,75,52,Severa
+16,59,56.7,1.83,F,4735,2,Casado,Loreto,Técnico,9,84,9,Mínima
+17,34,63.6,1.71,M,4618,2,Casado,Piura,Economista,26,82,6,Mínima
+18,35,64.6,1.92,F,5063,5,Divorciado,Cajamarca,Enfermero,38,123,1,Mínima
+19,51,66.6,1.82,M,6129,5,Divorciado,Loreto,Enfermero,7,92,33,Severa
+20,45,62.4,1.8,F,8673,5,Viudo,Áncash,Diseñador,24,95,59,Severa
+21,43,73.9,1.56,M,2113,1,Viudo,Arequipa,Economista,10,93,26,Moderada
+22,47,83.8,1.67,M,6261,4,Casado,Tumbes,Científico,8,78,8,Mínima
+23,21,70.7,1.57,M,3333,1,Soltero,Lambayeque,Técnico,17,95,31,Severa
+24,49,99.8,1.54,F,8123,1,Soltero,Callao,Médico,40,103,54,Severa
+25,25,90.2,1.75,F,1859,3,Viudo,Moquegua,Contador,16,120,54,Severa
+26,31,78.4,1.67,F,8255,1,Soltero,Áncash,Arquitecto,31,133,23,Moderada
+27,63,61.5,1.52,M,3994,1,Viudo,Puno,Diseñador,34,85,36,Severa
+28,36,53.3,1.79,M,1829,0,Divorciado,Arequipa,Arquitecto,25,88,41,Severa
+29,22,97.1,1.82,M,3458,0,Viudo,Junín,Periodista,28,81,41,Severa
+30,22,66.9,1.76,F,7931,1,Viudo,Huancavelica,Profesor,20,101,46,Severa
+31,20,74.1,1.93,M,7442,5,Soltero,Ica,Psicólogo,11,122,4,Mínima
+32,21,55.6,1.61,M,1655,5,Viudo,Huánuco,Administrador,11,99,27,Moderada
+33,26,69.1,1.57,F,2779,1,Casado,Puno,Periodista,23,85,36,Severa
+34,41,87.2,1.8,M,5953,0,Casado,Tumbes,Arquitecto,8,132,8,Mínima
+35,57,75.8,1.71,F,3182,0,Soltero,San Martín,Diseñador,14,101,3,Mínima
+36,26,91.8,1.93,F,7216,3,Soltero,Callao,Desarrollador,21,116,34,Severa
+37,51,72.9,1.71,M,3674,3,Divorciado,Tacna,Psicólogo,17,71,55,Severa
+38,28,99.4,1.79,F,2824,2,Viudo,Puno,Ingeniero,39,75,32,Severa
+39,25,98.9,1.64,F,8326,3,Soltero,Apurímac,Ingeniero,21,93,5,Mínima
+40,21,57.4,1.77,M,4158,5,Casado,Loreto,Científico,28,110,27,Moderada
+41,60,88.6,1.65,F,5640,5,Casado,Junín,Enfermero,37,123,5,Mínima
+42,50,78.2,1.87,M,9307,5,Soltero,Lima,Contador,30,114,35,Severa
+43,22,75.2,1.62,F,1351,1,Casado,Amazonas,Psicólogo,12,97,20,Moderada
+44,31,92.8,1.96,M,2122,0,Viudo,Tumbes,Científico,33,84,4,Mínima
+45,38,94.4,1.79,F,3292,4,Divorciado,Ica,Médico,4,71,23,Moderada
+46,42,85.5,1.61,M,9881,0,Casado,Ayacucho,Diseñador,15,101,18,Leve
+47,51,69,1.7,M,4217,3,Soltero,Moquegua,Desarrollador,31,139,30,Severa
+48,43,92,1.8,F,3432,4,Divorciado,Puno,Psicólogo,36,83,39,Severa
+49,56,79,1.74,F,3885,0,Divorciado,Madre de Dios,Ingeniero,15,111,43,Severa
+50,29,60,1.98,F,4005,2,Divorciado,Cusco,Desarrollador,6,94,23,Moderada
+51,34,54.7,1.67,M,4534,4,Divorciado,Cusco,Profesor,36,127,24,Moderada
+52,32,94.1,1.92,M,6553,1,Casado,Cajamarca,Desarrollador,15,138,20,Moderada
+53,45,68.1,1.99,F,1228,0,Divorciado,La Libertad,Contador,1,123,11,Mínima
+54,63,92.8,1.56,F,3522,0,Viudo,La Libertad,Profesor,35,76,48,Severa
+55,39,90.8,1.61,F,3450,1,Soltero,Cusco,Técnico,16,123,54,Severa
+56,28,78,1.53,M,8933,2,Soltero,Huánuco,Periodista,15,77,52,Severa
+57,37,52.5,1.95,M,5760,3,Soltero,Cusco,Psicólogo,15,109,29,Severa
+58,56,58.6,1.64,F,8933,2,Divorciado,Loreto,Profesor,13,82,21,Moderada
+59,61,58.1,1.66,M,9460,2,Viudo,Cajamarca,Psicólogo,19,101,16,Leve
+60,64,74.8,1.93,F,5264,1,Viudo,Áncash,Economista,20,89,14,Leve
+61,53,72.1,1.56,M,6929,1,Divorciado,Callao,Enfermero,21,98,58,Severa
+62,18,80.5,1.63,F,7004,0,Viudo,Ayacucho,Desarrollador,39,74,52,Severa
+63,36,62,1.58,M,5492,1,Soltero,Apurímac,Técnico,37,84,34,Severa
+64,49,55.8,1.79,F,4829,3,Viudo,Tacna,Periodista,28,99,55,Severa
+65,43,68.7,1.7,M,7898,5,Divorciado,Apurímac,Diseñador,38,86,46,Severa
+66,31,66.5,1.6,M,1343,3,Divorciado,Junín,Administrador,30,102,60,Severa
+67,35,72,1.89,F,2109,1,Viudo,Moquegua,Contador,32,98,33,Severa
+68,43,59.2,1.68,M,9342,5,Viudo,Ayacucho,Arquitecto,23,138,8,Mínima
+69,19,81.2,1.86,F,6927,4,Casado,Tacna,Profesor,28,82,36,Severa
+70,47,55.1,1.8,F,1806,3,Divorciado,Ayacucho,Abogado,30,97,11,Mínima
+71,21,67.7,1.7,M,9502,0,Soltero,Madre de Dios,Científico,28,117,15,Leve
+72,44,57.7,1.68,F,3935,1,Divorciado,Huancavelica,Profesor,7,89,1,Mínima
+73,28,74.3,1.87,F,5506,1,Soltero,Arequipa,Psicólogo,33,104,56,Severa
+74,21,56.4,1.76,M,5774,5,Viudo,Junín,Enfermero,27,110,31,Severa
+75,52,54.3,1.62,F,9533,1,Casado,Pasco,Contador,24,139,11,Mínima
+76,41,92.7,1.95,M,3985,1,Divorciado,Junín,Psicólogo,20,108,7,Mínima
+77,35,96.5,1.86,F,2912,5,Soltero,Tumbes,Enfermero,7,83,24,Moderada
+78,47,89.2,1.91,M,2383,5,Viudo,Madre de Dios,Técnico,24,72,25,Moderada
+79,47,71.4,1.5,M,6565,2,Divorciado,Apurímac,Médico,2,100,13,Mínima
+80,60,62,1.87,F,1474,1,Soltero,Cajamarca,Arquitecto,29,119,46,Severa
+81,39,92.4,1.95,M,9551,3,Viudo,Madre de Dios,Ingeniero,5,115,23,Moderada
+82,65,63.8,1.93,M,5168,2,Viudo,Amazonas,Abogado,21,81,2,Mínima
+83,61,84.6,1.53,F,3031,4,Soltero,Amazonas,Arquitecto,14,97,42,Severa
+84,51,75.5,1.64,F,2643,4,Divorciado,Loreto,Enfermero,5,100,10,Mínima
+85,42,55.4,1.81,M,4591,3,Soltero,La Libertad,Economista,24,115,11,Mínima
+86,56,94.4,1.53,M,4331,3,Viudo,San Martín,Economista,17,93,6,Mínima
+87,57,86.1,1.81,F,3904,5,Casado,Cusco,Economista,18,110,10,Mínima
+88,41,81.9,1.99,M,6928,1,Viudo,San Martín,Arquitecto,39,86,35,Severa
+89,28,87.8,1.7,M,5251,3,Viudo,Junín,Economista,17,104,43,Severa
+90,47,84.9,1.71,F,1727,1,Viudo,Cusco,Economista,2,76,45,Severa
+91,34,57.4,1.81,M,2209,3,Divorciado,Áncash,Diseñador,34,108,17,Leve
+92,39,89.8,1.98,F,7463,4,Soltero,Pasco,Ingeniero,2,81,45,Severa
+93,30,92.9,1.59,M,7217,2,Soltero,San Martín,Contador,5,104,41,Severa
+94,35,83.8,1.73,F,2166,0,Casado,Madre de Dios,Administrador,17,100,12,Mínima
+95,30,99.2,1.67,M,8748,0,Soltero,Madre de Dios,Enfermero,24,77,30,Severa
+96,39,94,1.72,M,7113,2,Casado,Callao,Médico,1,81,10,Mínima
+97,63,73.6,1.75,F,9096,0,Casado,Madre de Dios,Profesor,6,70,26,Moderada
+98,43,86.6,1.66,M,7807,2,Viudo,La Libertad,Arquitecto,29,120,49,Severa
+99,47,53.7,1.94,F,8163,2,Casado,La Libertad,Profesor,14,129,36,Severa
+100,40,68.8,1.57,F,2434,4,Casado,Huánuco,Abogado,4,85,2,Mínima
+101,33,68.8,1.58,M,2937,4,Soltero,Tumbes,Profesor,6,125,24,Moderada
+102,25,60.7,1.84,F,9370,2,Casado,Apurímac,Médico,26,86,31,Severa
+103,36,50.5,1.86,F,7967,3,Viudo,Arequipa,Técnico,15,72,3,Mínima
+104,58,60.9,1.86,F,9328,0,Casado,Ucayali,Científico,25,71,16,Leve
+105,29,85,1.7,M,8519,3,Soltero,Piura,Economista,25,95,43,Severa
+106,24,75.3,1.91,M,1386,0,Divorciado,La Libertad,Contador,22,128,31,Severa
+107,19,52.2,1.89,F,9341,3,Viudo,Lambayeque,Contador,25,78,14,Leve
+108,55,72.6,1.99,F,3314,2,Casado,Tacna,Contador,1,120,44,Severa
+109,56,79,1.92,M,2800,5,Viudo,La Libertad,Administrador,2,101,59,Severa
+110,65,95.8,1.74,M,8284,4,Viudo,San Martín,Diseñador,6,117,38,Severa
+111,19,60.8,1.69,M,7621,0,Divorciado,Ucayali,Administrador,16,117,24,Moderada
+112,57,85.4,1.93,F,7536,4,Divorciado,La Libertad,Profesor,26,97,0,Mínima
+113,18,57,1.55,F,4463,0,Viudo,Pasco,Economista,34,102,7,Mínima
+114,65,85.7,1.98,F,7711,1,Casado,Arequipa,Administrador,39,100,38,Severa
+115,35,57.4,1.72,M,1646,2,Soltero,Ica,Administrador,3,126,1,Mínima
+116,46,56.5,1.7,M,6948,5,Soltero,Piura,Administrador,40,130,23,Moderada
+117,29,94.3,1.95,M,8090,1,Soltero,Cusco,Periodista,17,140,56,Severa
+118,65,87.8,1.86,M,8665,4,Viudo,Huancavelica,Médico,13,81,15,Leve
+119,47,70.5,1.54,M,7329,4,Casado,La Libertad,Contador,1,131,42,Severa
+120,61,58.7,1.57,F,7388,5,Divorciado,Junín,Profesor,38,120,21,Moderada
+121,28,93.1,1.74,M,4351,2,Casado,Cusco,Ingeniero,33,123,31,Severa
+122,27,84.9,1.82,F,2572,5,Casado,Piura,Economista,16,119,13,Mínima
+123,34,68.4,1.7,F,2844,1,Divorciado,Huánuco,Administrador,7,94,22,Moderada
+124,45,98.8,1.85,F,4325,4,Soltero,Madre de Dios,Contador,24,139,35,Severa
+125,34,68.1,1.65,M,7824,3,Soltero,Tumbes,Abogado,12,123,8,Mínima
+126,60,85.2,1.96,F,7807,1,Divorciado,San Martín,Arquitecto,10,95,59,Severa
+127,54,66.3,1.53,M,1328,4,Casado,Arequipa,Psicólogo,32,125,12,Mínima
+128,44,76.1,1.74,M,9318,0,Divorciado,La Libertad,Abogado,16,84,6,Mínima
+129,27,61.5,1.86,F,3874,5,Viudo,Puno,Diseñador,13,93,8,Mínima
+130,49,73.4,1.93,F,9889,2,Viudo,Cusco,Médico,1,73,42,Severa
+131,46,80.9,1.65,F,1791,5,Casado,Junín,Periodista,24,113,42,Severa
+132,65,82.5,1.56,F,3301,0,Casado,Piura,Profesor,39,111,34,Severa
+133,53,80.9,1.8,F,8444,5,Divorciado,Huancavelica,Abogado,25,135,10,Mínima
+134,31,74.6,1.68,M,1460,5,Casado,Ica,Arquitecto,8,106,6,Mínima
+135,23,58.3,1.72,M,3713,1,Divorciado,Tumbes,Científico,14,96,51,Severa
+136,25,51.7,1.73,F,2352,0,Casado,Piura,Enfermero,6,122,27,Moderada
+137,25,72.8,1.9,M,8696,4,Viudo,Loreto,Científico,33,114,38,Severa
+138,41,53.5,1.78,M,9386,1,Casado,Puno,Médico,27,77,7,Mínima
+139,37,58.5,1.52,F,7325,2,Divorciado,Ica,Psicólogo,20,89,31,Severa
+140,47,99.6,1.96,M,9120,0,Soltero,Huánuco,Desarrollador,37,135,23,Moderada
+141,57,88.9,1.55,F,9365,2,Viudo,Áncash,Contador,33,105,57,Severa
+142,60,67.5,1.63,F,2297,1,Casado,Junín,Profesor,34,92,30,Severa
+143,65,70.1,1.7,M,2323,2,Casado,Madre de Dios,Psicólogo,16,93,6,Mínima
+144,65,51.9,1.93,M,3470,3,Viudo,Amazonas,Científico,9,73,63,Severa
+145,35,50.2,1.82,M,8126,4,Divorciado,Puno,Científico,7,72,20,Moderada
+146,26,50.1,1.89,F,5850,2,Viudo,Puno,Psicólogo,2,119,4,Mínima
+147,20,60.1,1.73,F,8151,5,Viudo,Piura,Arquitecto,34,116,10,Mínima
+148,40,68.1,1.56,F,4913,4,Divorciado,Ayacucho,Economista,14,136,33,Severa
+149,63,88.4,1.91,M,3819,3,Viudo,Madre de Dios,Periodista,5,139,57,Severa
+150,61,70.1,1.55,F,8466,0,Viudo,Moquegua,Contador,20,70,12,Mínima
+151,50,89.2,1.54,F,7139,2,Casado,Lima,Periodista,39,134,42,Severa
+152,52,61.4,1.66,M,2897,4,Viudo,Lima,Médico,36,97,39,Severa
+153,33,98,1.97,M,3657,1,Divorciado,La Libertad,Enfermero,23,110,59,Severa
+154,62,89.3,1.88,F,5898,0,Soltero,Áncash,Diseñador,0,101,11,Mínima
+155,55,53,1.76,F,5054,2,Casado,Cajamarca,Economista,2,131,34,Severa
+156,43,81.7,1.76,F,7960,1,Viudo,Lambayeque,Periodista,25,80,28,Moderada
+157,59,93.5,1.7,M,6915,5,Casado,Madre de Dios,Ingeniero,19,85,12,Mínima
+158,49,63,1.73,M,1758,4,Viudo,Cajamarca,Diseñador,17,95,41,Severa
+159,45,74.2,1.65,F,2913,3,Divorciado,La Libertad,Contador,25,108,58,Severa
+160,33,77.7,1.63,F,2600,0,Divorciado,Apurímac,Arquitecto,20,139,31,Severa
+161,19,53.7,1.74,M,7852,0,Viudo,Lima,Ingeniero,35,129,49,Severa
+162,22,71.1,1.79,M,9658,1,Viudo,Moquegua,Profesor,38,113,53,Severa
+163,22,57.8,1.51,M,8069,5,Viudo,Loreto,Científico,17,117,0,Mínima
+164,28,60.3,1.64,M,4936,0,Soltero,Tumbes,Profesor,1,127,61,Severa
+165,32,58.1,1.57,F,3199,2,Divorciado,Pasco,Administrador,38,79,23,Moderada
+166,38,67.5,1.88,M,4697,0,Casado,Lambayeque,Médico,8,76,41,Severa
+167,28,68.8,1.68,F,9093,1,Casado,Lima,Periodista,4,136,39,Severa
+168,48,83.6,1.97,M,7039,3,Viudo,Pasco,Abogado,24,81,2,Mínima
+169,48,55.7,1.6,F,1215,4,Soltero,Pasco,Profesor,4,110,26,Moderada
+170,21,89.4,1.62,F,6712,3,Divorciado,Apurímac,Economista,10,106,16,Leve
+171,25,66.5,1.57,M,1301,1,Soltero,La Libertad,Economista,17,132,9,Mínima
+172,20,96,1.72,M,6395,0,Divorciado,Pasco,Científico,14,119,56,Severa
+173,65,81,1.66,F,2289,5,Soltero,Apurímac,Contador,40,80,35,Severa
+174,57,66.2,1.66,F,2146,3,Divorciado,Madre de Dios,Desarrollador,9,78,22,Moderada
+175,39,55.3,1.56,M,1431,0,Viudo,Tumbes,Médico,7,109,34,Severa
+176,32,80.1,1.89,F,7503,2,Viudo,Apurímac,Médico,40,73,5,Mínima
+177,51,56.4,1.71,M,6731,4,Viudo,San Martín,Administrador,3,87,50,Severa
+178,49,94,1.9,M,8481,3,Casado,Callao,Profesor,32,133,48,Severa
+179,26,84.3,1.84,F,2094,3,Casado,Pasco,Contador,39,123,49,Severa
+180,20,74,1.66,F,5774,2,Casado,Huánuco,Profesor,16,107,16,Leve
+181,30,60.2,1.81,F,2795,3,Viudo,Piura,Diseñador,13,138,19,Leve
+182,63,79.8,1.97,M,3633,0,Casado,Huancavelica,Contador,8,96,18,Leve
+183,32,84.9,1.81,M,8236,0,Casado,Lambayeque,Desarrollador,26,76,24,Moderada
+184,57,67.2,1.83,F,8912,0,Viudo,Tacna,Enfermero,27,122,20,Moderada
+185,30,68.8,1.65,M,4324,3,Casado,Huancavelica,Administrador,28,124,47,Severa
+186,19,82.6,1.71,F,2465,4,Viudo,Loreto,Psicólogo,27,117,45,Severa
+187,42,55.3,1.58,M,5289,4,Soltero,Loreto,Periodista,16,136,23,Moderada
+188,20,88,1.64,M,6872,2,Casado,Áncash,Psicólogo,16,127,41,Severa
+189,58,56,1.59,M,7069,2,Viudo,Cajamarca,Administrador,19,124,35,Severa
+190,64,97.7,1.79,M,8033,3,Casado,Amazonas,Administrador,15,83,1,Mínima
+191,41,77.1,1.55,F,4101,3,Soltero,Tumbes,Ingeniero,2,122,63,Severa
+192,29,53.6,1.61,M,3605,1,Viudo,Cusco,Médico,20,81,18,Leve
+193,63,76.6,2,M,7170,1,Soltero,Moquegua,Psicólogo,21,87,8,Mínima
+194,43,56.2,1.64,M,2790,3,Casado,San Martín,Contador,22,112,21,Moderada
+195,52,54.5,1.68,M,4122,1,Divorciado,Pasco,Ingeniero,11,80,24,Moderada
+196,42,78.5,1.5,F,1422,2,Casado,Arequipa,Abogado,1,115,22,Moderada
+197,26,93.7,1.97,F,4328,0,Casado,Junín,Desarrollador,25,123,52,Severa
+198,46,98.6,1.69,M,2991,5,Divorciado,Huánuco,Arquitecto,30,114,13,Mínima
+199,27,90.6,1.74,F,9923,0,Viudo,San Martín,Contador,14,96,49,Severa
+200,64,93.9,1.71,M,4354,3,Viudo,Junín,Técnico,34,70,37,Severa
+201,56,52.5,1.54,F,7651,4,Soltero,Ucayali,Abogado,25,100,44,Severa
+202,49,82.1,1.74,F,4626,5,Soltero,Áncash,Administrador,14,114,38,Severa
+203,19,84.9,1.61,M,1718,1,Divorciado,Pasco,Científico,27,103,60,Severa
+204,18,78.3,1.74,M,4762,0,Casado,Huancavelica,Psicólogo,11,98,53,Severa
+205,37,66.1,1.92,M,1223,3,Casado,Ayacucho,Técnico,21,110,58,Severa
+206,54,71.9,1.85,M,7661,1,Casado,La Libertad,Economista,6,85,28,Moderada
+207,54,50.6,1.57,M,6796,1,Soltero,Ayacucho,Administrador,16,92,10,Mínima
+208,60,80.9,1.55,M,5768,0,Divorciado,Ayacucho,Economista,38,75,12,Mínima
+209,25,61.1,1.62,M,6805,2,Soltero,Arequipa,Médico,9,93,40,Severa
+210,29,55,1.64,F,3219,0,Casado,Ica,Médico,7,138,27,Moderada
+211,34,54.6,1.8,M,8199,1,Divorciado,Arequipa,Psicólogo,5,138,42,Severa
+212,20,80.3,1.82,F,4046,3,Divorciado,Huánuco,Ingeniero,12,102,31,Severa
+213,22,52.8,1.81,F,8223,0,Divorciado,San Martín,Arquitecto,34,73,41,Severa
+214,40,94.1,1.95,F,7704,1,Casado,Callao,Administrador,11,84,2,Mínima
+215,63,81.9,1.55,F,3592,4,Soltero,San Martín,Profesor,9,74,47,Severa
+216,61,67.8,1.52,M,3840,0,Soltero,Callao,Ingeniero,14,135,19,Leve
+217,57,50.4,1.7,F,6050,5,Casado,Tumbes,Arquitecto,36,117,31,Severa
+218,61,92.8,1.73,F,4399,0,Soltero,Loreto,Diseñador,25,79,53,Severa
+219,37,82,1.5,M,1871,0,Casado,Tumbes,Profesor,12,131,20,Moderada
+220,46,74,1.79,M,5397,1,Soltero,Arequipa,Psicólogo,25,98,18,Leve
+221,41,65.9,1.52,F,2635,5,Divorciado,Áncash,Médico,32,137,59,Severa
+222,54,73.7,1.51,F,9029,4,Viudo,Pasco,Periodista,39,107,8,Mínima
+223,42,98.2,1.94,M,5272,4,Viudo,Callao,Psicólogo,2,99,55,Severa
+224,51,52.8,1.79,M,3305,5,Soltero,Cusco,Psicólogo,20,121,10,Mínima
+225,20,91.3,1.84,F,3639,5,Divorciado,Huancavelica,Técnico,1,94,7,Mínima
+226,52,95,1.54,M,8489,1,Viudo,Tacna,Diseñador,29,87,45,Severa
+227,44,96.7,1.66,M,3080,1,Casado,Pasco,Ingeniero,37,131,43,Severa
+228,22,80,1.73,M,2724,2,Viudo,Cusco,Enfermero,9,133,16,Leve
+229,21,56.3,1.65,M,7864,0,Viudo,Puno,Psicólogo,35,117,20,Moderada
+230,39,78.4,1.68,M,9576,1,Viudo,Lima,Científico,10,129,29,Severa
+231,44,62.8,1.59,M,4139,1,Divorciado,Ucayali,Médico,7,74,59,Severa
+232,61,54.6,1.98,M,9580,4,Viudo,La Libertad,Arquitecto,4,123,43,Severa
+233,48,74.3,1.6,M,2709,1,Soltero,Ucayali,Psicólogo,40,127,35,Severa
+234,39,73,1.54,M,7572,1,Divorciado,Apurímac,Ingeniero,23,70,48,Severa
+235,20,86.9,1.85,F,3328,1,Casado,Áncash,Administrador,21,138,26,Moderada
+236,57,83,1.78,M,3950,0,Soltero,Moquegua,Médico,27,124,60,Severa
+237,46,75.5,1.65,M,3617,2,Divorciado,La Libertad,Desarrollador,3,109,20,Moderada
+238,44,70.5,1.63,F,2076,1,Divorciado,San Martín,Desarrollador,15,118,5,Mínima
+239,38,88.7,1.72,F,1990,3,Soltero,Arequipa,Enfermero,32,131,21,Moderada
+240,37,77.7,1.89,M,8895,2,Soltero,San Martín,Ingeniero,1,81,58,Severa
+241,46,84.7,1.76,M,5715,3,Soltero,Cajamarca,Economista,30,84,5,Mínima
+242,53,88.6,1.64,F,6504,2,Viudo,Tacna,Desarrollador,9,122,43,Severa
+243,36,89.9,1.98,M,5892,0,Soltero,Loreto,Psicólogo,0,80,45,Severa
+244,64,50.7,1.55,M,5650,1,Divorciado,San Martín,Psicólogo,36,93,33,Severa
+245,41,73.1,1.73,F,2146,0,Casado,Tumbes,Profesor,3,140,51,Severa
+246,34,95,1.65,F,1663,0,Casado,Huánuco,Desarrollador,38,130,49,Severa
+247,23,60.1,1.76,M,1465,5,Soltero,Cusco,Enfermero,29,130,34,Severa
+248,63,82.3,1.92,F,6350,1,Soltero,Áncash,Diseñador,4,104,51,Severa
+249,48,57.7,1.91,M,5152,1,Soltero,Tacna,Científico,33,105,37,Severa
+250,62,98.3,1.55,M,6290,3,Casado,La Libertad,Economista,24,107,33,Severa
+251,53,96.5,1.95,M,8909,2,Divorciado,Pasco,Científico,3,98,33,Severa
+252,42,56.6,1.85,F,2784,0,Soltero,Arequipa,Arquitecto,35,98,50,Severa
+253,35,51.3,1.67,M,7941,2,Divorciado,Huancavelica,Abogado,6,74,43,Severa
+254,43,64.3,1.62,F,7405,3,Divorciado,Puno,Psicólogo,4,118,24,Moderada
+255,60,87.1,1.8,F,7122,5,Viudo,San Martín,Psicólogo,15,124,51,Severa
+256,47,55.6,1.89,M,9568,5,Viudo,Lima,Abogado,5,104,44,Severa
+257,41,50.7,1.54,F,7926,0,Soltero,Junín,Científico,39,91,39,Severa
+258,19,96.8,1.67,F,5458,4,Viudo,Tacna,Diseñador,40,137,41,Severa
+259,21,53.7,1.65,M,4900,1,Casado,San Martín,Diseñador,25,123,50,Severa
+260,28,99.7,1.82,M,8980,5,Viudo,Áncash,Científico,16,140,9,Mínima
+261,53,73.7,1.52,M,3900,2,Viudo,Moquegua,Psicólogo,15,138,6,Mínima
+262,30,59.4,1.92,F,2890,0,Viudo,Piura,Profesor,17,136,56,Severa
+263,20,94.2,1.77,F,2576,4,Casado,San Martín,Periodista,39,111,30,Severa
+264,31,97.3,1.89,M,6561,1,Divorciado,Ica,Arquitecto,17,137,22,Moderada
+265,31,88.4,1.68,M,5369,3,Divorciado,Tacna,Ingeniero,38,112,37,Severa
+266,32,81.3,1.68,M,6761,5,Viudo,Moquegua,Médico,35,106,5,Mínima
+267,60,76.5,1.67,M,3121,4,Casado,Áncash,Periodista,7,97,57,Severa
+268,59,96.7,1.91,F,3294,0,Casado,Puno,Arquitecto,27,121,19,Leve
+269,45,98.4,1.8,F,4464,5,Viudo,Cusco,Técnico,21,70,23,Moderada
+270,52,91.7,1.84,M,6656,3,Viudo,San Martín,Médico,31,106,21,Moderada
+271,37,62.5,1.55,M,1431,4,Divorciado,Arequipa,Profesor,36,105,18,Leve
+272,53,62.9,1.93,M,5462,2,Casado,Apurímac,Diseñador,7,113,41,Severa
+273,45,60.8,1.63,F,6347,5,Viudo,Cusco,Enfermero,2,73,44,Severa
+274,40,56.4,1.57,M,8901,3,Casado,Cajamarca,Técnico,18,72,39,Severa
+275,43,79.4,1.51,M,2399,2,Soltero,Ayacucho,Contador,12,115,15,Leve
+276,28,88.9,1.64,M,4220,0,Viudo,Tumbes,Arquitecto,38,76,40,Severa
+277,63,51.8,1.7,F,2878,1,Soltero,Tacna,Periodista,34,98,40,Severa
+278,19,90.7,1.63,F,6637,5,Divorciado,Tacna,Médico,18,129,50,Severa
+279,24,60.6,1.87,M,6184,4,Viudo,Ucayali,Abogado,37,123,36,Severa
+280,40,53.8,1.96,M,1970,0,Casado,Cusco,Científico,35,108,24,Moderada
+281,38,62.4,1.54,M,6315,1,Casado,Ayacucho,Ingeniero,35,108,26,Moderada
+282,30,71.1,1.58,F,4304,3,Viudo,Ayacucho,Abogado,27,84,46,Severa
+283,48,57.9,1.89,M,1787,3,Viudo,Tumbes,Técnico,9,124,45,Severa
+284,18,98.3,1.9,F,2186,5,Soltero,Moquegua,Psicólogo,20,79,45,Severa
+285,25,83.5,1.62,F,6064,5,Soltero,Loreto,Arquitecto,17,87,38,Severa
+286,34,79.3,1.53,F,2015,1,Viudo,Áncash,Científico,29,112,36,Severa
+287,51,92.4,1.77,F,8803,4,Soltero,Cusco,Científico,20,86,31,Severa
+288,40,86.1,2,F,6028,2,Soltero,Moquegua,Desarrollador,8,115,47,Severa
+289,19,53.4,2,F,2997,3,Casado,Lima,Científico,0,76,24,Moderada
+290,26,76.1,1.84,M,7977,0,Soltero,Lambayeque,Periodista,10,104,13,Mínima
+291,56,53.2,1.8,M,7102,4,Casado,Ica,Científico,2,86,28,Moderada
+292,52,72.3,1.6,M,9005,3,Divorciado,Loreto,Enfermero,16,115,4,Mínima
+293,22,93.9,1.87,M,7876,0,Casado,Callao,Contador,16,129,57,Severa
+294,55,97.4,1.55,M,1903,5,Casado,Ucayali,Médico,36,96,26,Moderada
+295,57,96.9,1.81,M,6619,0,Viudo,Madre de Dios,Científico,5,108,24,Moderada
+296,30,78.4,1.74,M,3000,1,Divorciado,Pasco,Abogado,21,77,63,Severa
+297,57,60.7,1.53,M,9575,0,Divorciado,Áncash,Desarrollador,36,112,37,Severa
+298,37,94,1.91,F,9882,1,Soltero,Madre de Dios,Arquitecto,14,82,8,Mínima
+299,57,59.8,1.72,M,4483,3,Soltero,Loreto,Periodista,12,111,57,Severa
+300,29,99,1.78,M,9258,4,Viudo,La Libertad,Economista,33,107,6,Mínima
+301,45,87.7,1.54,M,2012,4,Viudo,Callao,Administrador,24,134,0,Mínima
+302,46,55.2,1.87,M,3395,2,Divorciado,La Libertad,Diseñador,19,75,46,Severa
+303,19,54.5,1.61,F,8604,1,Viudo,Madre de Dios,Profesor,35,75,58,Severa
+304,29,56.3,1.66,M,3202,4,Viudo,Ica,Profesor,27,103,14,Leve
+305,54,74,1.8,F,9088,4,Casado,Ica,Desarrollador,23,117,26,Moderada
+306,25,82.1,1.78,F,5833,5,Viudo,Junín,Periodista,10,130,46,Severa
+307,23,78.1,1.57,M,2596,2,Soltero,Ayacucho,Psicólogo,26,126,2,Mínima
+308,53,50.2,1.67,M,2805,0,Divorciado,Moquegua,Enfermero,36,71,9,Mínima
+309,40,67.8,1.5,M,4368,1,Viudo,Cajamarca,Arquitecto,31,87,41,Severa
+310,56,97.8,1.93,F,2756,1,Soltero,Pasco,Enfermero,35,115,7,Mínima
+311,58,87.1,1.74,F,2681,2,Divorciado,Amazonas,Administrador,16,93,0,Mínima
+312,21,51.1,1.96,M,1465,1,Viudo,Áncash,Profesor,13,140,63,Severa
+313,42,87.5,1.8,F,7733,3,Viudo,Huancavelica,Administrador,34,124,18,Leve
+314,52,69.4,1.81,M,1910,5,Divorciado,Junín,Científico,12,113,4,Mínima
+315,23,82.5,1.87,M,1248,4,Soltero,Amazonas,Técnico,33,128,39,Severa
+316,63,50.5,1.62,F,7935,4,Viudo,Loreto,Médico,26,125,37,Severa
+317,41,84.4,1.8,F,7755,1,Soltero,Lambayeque,Abogado,18,108,60,Severa
+318,45,67.2,1.59,M,7766,5,Casado,La Libertad,Arquitecto,0,128,35,Severa
+319,26,90.1,1.72,M,8957,4,Divorciado,Moquegua,Profesor,11,101,27,Moderada
+320,28,98.7,1.84,M,2462,2,Casado,Amazonas,Científico,20,105,21,Moderada
+321,33,82.1,1.54,F,8684,2,Divorciado,Puno,Profesor,22,95,63,Severa
+322,53,92.5,1.7,M,3638,5,Casado,Apurímac,Psicólogo,39,135,7,Mínima
+323,51,50.7,1.6,M,5344,4,Casado,Madre de Dios,Psicólogo,13,84,6,Mínima
+324,18,83.3,1.76,F,7735,5,Soltero,Amazonas,Enfermero,2,89,43,Severa
+325,30,74.7,1.86,F,2746,0,Casado,Lima,Ingeniero,10,106,28,Moderada
+326,62,71.8,1.96,F,3862,2,Soltero,Amazonas,Arquitecto,26,70,49,Severa
+327,34,85.6,1.66,F,4591,0,Viudo,Junín,Administrador,2,137,36,Severa
+328,46,74.7,1.58,F,3070,3,Divorciado,Madre de Dios,Médico,26,94,49,Severa
+329,41,89.5,1.59,F,1565,1,Divorciado,Lambayeque,Arquitecto,8,76,54,Severa
+330,36,61,1.6,F,2535,4,Casado,Ucayali,Enfermero,39,124,7,Mínima
+331,22,59.7,1.71,F,4433,5,Divorciado,Lima,Científico,10,136,6,Mínima
+332,51,99.1,1.83,F,6335,5,Soltero,San Martín,Administrador,24,80,62,Severa
+333,19,57,1.73,M,1461,3,Viudo,La Libertad,Psicólogo,11,93,20,Moderada
+334,55,70,1.65,F,4505,1,Viudo,Puno,Enfermero,9,80,41,Severa
+335,32,66.2,1.67,F,2676,2,Casado,Moquegua,Arquitecto,16,106,24,Moderada
+336,41,98.6,1.62,M,4225,2,Soltero,Piura,Ingeniero,0,137,36,Severa
+337,59,85.4,1.75,M,2380,3,Divorciado,Lima,Enfermero,10,102,56,Severa
+338,61,72.5,1.99,F,3369,3,Soltero,Callao,Profesor,21,137,12,Mínima
+339,41,72.9,1.99,M,7073,0,Soltero,Apurímac,Profesor,39,129,11,Mínima
+340,22,93.3,1.66,F,2259,4,Soltero,Callao,Ingeniero,32,138,54,Severa
+341,53,77,1.54,F,5512,2,Divorciado,Piura,Enfermero,0,99,43,Severa
+342,62,61.1,1.87,F,7369,5,Viudo,Callao,Técnico,31,100,40,Severa
+343,33,64.5,1.57,M,9098,2,Viudo,Huancavelica,Profesor,24,104,16,Leve
+344,32,57.3,1.97,F,7790,3,Casado,Junín,Contador,33,112,18,Leve
+345,42,99.7,1.87,M,3832,3,Divorciado,Ayacucho,Desarrollador,13,101,59,Severa
+346,18,58.5,1.62,M,8325,4,Casado,San Martín,Desarrollador,15,78,11,Mínima
+347,50,98.1,1.55,F,9143,5,Casado,Áncash,Enfermero,39,75,4,Mínima
+348,58,74.6,1.59,M,6138,1,Viudo,Huancavelica,Arquitecto,31,110,43,Severa
+349,31,53.8,1.84,F,9188,4,Casado,Junín,Ingeniero,33,116,38,Severa
+350,53,54.5,1.98,M,9751,1,Viudo,Junín,Técnico,36,71,63,Severa
+351,64,54,1.98,F,1531,2,Divorciado,Cajamarca,Desarrollador,18,131,6,Mínima
+352,23,51.9,1.93,F,9986,0,Viudo,Moquegua,Administrador,37,119,49,Severa
+353,38,57.3,1.73,M,8477,0,Divorciado,Lima,Psicólogo,35,98,36,Severa
+354,62,70.5,1.72,M,2547,5,Divorciado,Lima,Psicólogo,26,92,62,Severa
+355,35,58.2,1.52,M,9827,5,Divorciado,Piura,Economista,7,74,52,Severa
+356,38,97.5,1.51,F,4651,2,Casado,Ica,Ingeniero,16,89,26,Moderada
+357,59,61.3,1.95,F,6792,2,Soltero,Tumbes,Contador,23,118,60,Severa
+358,35,90,1.62,F,8414,3,Casado,Piura,Desarrollador,3,100,9,Mínima
+359,63,91.2,1.65,M,3459,4,Viudo,Lambayeque,Enfermero,0,88,56,Severa
+360,21,66.5,1.63,F,2677,2,Casado,Cajamarca,Ingeniero,10,95,41,Severa
+361,29,63.2,1.69,F,6963,2,Viudo,Áncash,Profesor,38,111,15,Leve
+362,58,77.7,1.63,F,2902,5,Divorciado,La Libertad,Periodista,17,129,16,Leve
+363,58,94.9,1.63,M,5400,1,Viudo,Huánuco,Administrador,11,72,38,Severa
+364,57,93.8,1.53,F,7338,5,Soltero,Ica,Médico,16,95,15,Leve
+365,26,65.8,1.94,M,9174,0,Soltero,Callao,Técnico,28,128,63,Severa
+366,58,73,1.89,M,5301,2,Viudo,Puno,Arquitecto,30,125,23,Moderada
+367,23,84.3,1.55,F,2615,3,Viudo,Huancavelica,Desarrollador,19,111,11,Mínima
+368,35,85.9,1.72,F,9691,2,Soltero,Apurímac,Administrador,33,125,37,Severa
+369,64,96.2,1.76,F,7274,1,Divorciado,San Martín,Administrador,33,131,3,Mínima
+370,46,52.7,1.53,F,9821,0,Casado,Callao,Diseñador,6,118,3,Mínima
+371,39,69.3,1.68,M,1346,2,Casado,Huánuco,Desarrollador,1,95,5,Mínima
+372,45,73.8,1.76,F,5083,1,Divorciado,Arequipa,Administrador,26,139,57,Severa
+373,36,57.3,1.77,M,4711,2,Casado,Piura,Enfermero,23,136,23,Moderada
+374,19,91.4,1.89,M,8453,3,Casado,Ayacucho,Psicólogo,23,127,61,Severa
+375,32,94,1.6,M,8558,0,Divorciado,Huancavelica,Enfermero,32,77,47,Severa
+376,32,61.6,1.59,M,8061,3,Divorciado,Ucayali,Profesor,19,121,49,Severa
+377,23,63.4,1.86,M,5521,5,Divorciado,Lambayeque,Médico,22,93,37,Severa
+378,23,90.1,1.81,F,9036,3,Viudo,Ica,Médico,37,99,6,Mínima
+379,31,83.9,1.78,M,7297,0,Casado,Junín,Abogado,1,92,51,Severa
+380,25,98.3,1.86,M,4925,3,Viudo,Ayacucho,Científico,13,96,35,Severa
+381,25,72.4,1.61,M,2964,0,Soltero,Junín,Profesor,5,125,18,Leve
+382,25,82.4,1.57,F,8472,5,Soltero,Ica,Diseñador,24,121,11,Mínima
+383,20,84.8,1.79,F,1212,4,Soltero,Lima,Técnico,20,121,22,Moderada
+384,56,54.7,1.72,M,1658,5,Viudo,Tacna,Economista,27,119,42,Severa
+385,26,86.9,1.64,M,1658,2,Soltero,Huancavelica,Profesor,40,129,50,Severa
+386,53,91.7,1.97,M,7565,5,Casado,Áncash,Abogado,35,133,0,Mínima
+387,43,77.9,1.63,F,8189,0,Casado,Lambayeque,Científico,1,132,34,Severa
+388,58,50.5,1.64,M,2477,5,Viudo,Cusco,Economista,29,73,16,Leve
+389,47,65.8,1.86,F,9432,1,Soltero,Madre de Dios,Periodista,2,122,55,Severa
+390,45,83.7,1.53,M,9037,4,Casado,Loreto,Economista,25,71,17,Leve
+391,44,69.6,1.56,F,7338,3,Divorciado,Ayacucho,Desarrollador,36,82,51,Severa
+392,49,70.2,1.68,M,3235,3,Divorciado,Puno,Contador,21,127,9,Mínima
+393,51,81.9,1.87,F,3336,3,Divorciado,Ucayali,Diseñador,31,82,7,Mínima
+394,32,91.8,1.85,M,1205,3,Casado,Áncash,Técnico,22,71,63,Severa
+395,46,56.5,1.88,M,4376,3,Soltero,San Martín,Técnico,33,98,22,Moderada
+396,45,77.5,1.66,F,9344,4,Casado,Junín,Psicólogo,4,136,3,Mínima
+397,40,61.7,1.7,F,2745,5,Casado,Callao,Economista,28,84,56,Severa
+398,34,64.2,1.89,F,5418,3,Viudo,Huánuco,Profesor,24,81,6,Mínima
+399,28,68.7,1.59,F,3704,5,Divorciado,Tumbes,Periodista,6,131,9,Mínima
+400,23,75,1.77,M,6063,4,Divorciado,Arequipa,Ingeniero,6,77,17,Leve
+401,24,56.7,1.88,M,8945,3,Soltero,Moquegua,Periodista,25,129,46,Severa
+402,56,98.6,1.51,F,7511,5,Divorciado,La Libertad,Administrador,10,109,27,Moderada
+403,48,83,1.89,M,4305,2,Casado,Huánuco,Médico,32,124,1,Mínima
+404,45,88.5,1.66,M,1923,5,Casado,Huánuco,Contador,6,80,18,Leve
+405,30,64.4,1.66,F,3002,3,Soltero,Apurímac,Científico,26,76,53,Severa
+406,63,74.3,1.91,M,7825,1,Viudo,Loreto,Psicólogo,17,117,42,Severa
+407,27,61.1,1.55,M,8712,4,Viudo,Lambayeque,Científico,22,78,24,Moderada
+408,41,80.9,2,M,1790,3,Soltero,Áncash,Técnico,20,137,47,Severa
+409,28,71.7,1.83,F,6248,4,Divorciado,La Libertad,Economista,5,75,47,Severa
+410,26,68.4,1.89,F,3110,1,Viudo,Madre de Dios,Contador,20,78,56,Severa
+411,55,62.5,1.86,M,6719,2,Soltero,Cajamarca,Diseñador,26,101,14,Leve
+412,50,94.8,2,M,3987,4,Viudo,Amazonas,Abogado,28,87,61,Severa
+413,52,95.3,1.97,M,7761,2,Viudo,Callao,Arquitecto,29,124,60,Severa
+414,47,78.4,1.75,M,7814,1,Divorciado,Cusco,Científico,19,133,3,Mínima
+415,59,56.5,1.81,M,1720,0,Casado,Junín,Científico,32,92,45,Severa
+416,45,83.3,1.6,F,1476,0,Viudo,San Martín,Médico,33,92,17,Leve
+417,43,76.8,1.61,M,9555,1,Viudo,Arequipa,Ingeniero,24,75,3,Mínima
+418,61,90.6,1.56,M,2412,5,Casado,Ica,Periodista,29,124,14,Leve
+419,24,59,1.64,F,7493,3,Casado,Áncash,Abogado,24,81,63,Severa
+420,45,82.2,1.57,F,4092,3,Soltero,Amazonas,Diseñador,9,79,30,Severa
+421,35,52.9,1.71,M,3319,5,Soltero,Lima,Enfermero,30,110,54,Severa
+422,28,74.1,1.93,M,2076,1,Soltero,Puno,Médico,7,78,31,Severa
+423,49,65.8,1.52,M,8340,2,Viudo,Cusco,Técnico,17,111,3,Mínima
+424,40,59.9,1.64,F,6607,3,Soltero,Madre de Dios,Técnico,15,77,21,Moderada
+425,34,96.1,1.71,F,7032,2,Divorciado,Piura,Contador,21,77,20,Moderada
+426,30,71,1.97,F,3404,5,Viudo,Piura,Psicólogo,1,102,51,Severa
+427,41,87.5,1.67,F,2376,0,Soltero,San Martín,Psicólogo,31,135,49,Severa
+428,23,81.3,1.96,M,6263,0,Casado,Áncash,Administrador,11,77,39,Severa
+429,29,65,1.54,F,5536,3,Divorciado,Apurímac,Administrador,32,123,56,Severa
+430,56,73.7,1.86,M,5007,2,Casado,Tacna,Médico,12,97,8,Mínima
+431,62,51.3,1.54,M,9444,5,Divorciado,Apurímac,Contador,3,91,61,Severa
+432,49,65.9,1.8,M,8339,2,Divorciado,Lambayeque,Economista,18,77,51,Severa
+433,48,77.9,1.79,M,5790,4,Casado,Apurímac,Abogado,22,84,39,Severa
+434,63,99.3,1.99,F,7995,1,Viudo,Áncash,Profesor,0,79,24,Moderada
+435,47,56.1,1.78,M,2849,3,Casado,Junín,Médico,33,135,35,Severa
+436,23,85.6,1.68,F,4443,5,Viudo,Ayacucho,Médico,15,124,11,Mínima
+437,43,54.8,1.79,F,1889,0,Casado,Apurímac,Administrador,1,102,17,Leve
+438,24,69.5,1.7,F,3334,5,Divorciado,Pasco,Economista,8,127,52,Severa
+439,27,80.7,1.64,M,8384,0,Casado,Tacna,Desarrollador,23,89,28,Moderada
+440,19,77.7,1.94,F,6355,3,Casado,Apurímac,Abogado,13,100,45,Severa
+441,43,54.8,1.95,M,4856,1,Viudo,Ucayali,Psicólogo,31,103,31,Severa
+442,19,66.9,1.75,F,6536,5,Divorciado,Tumbes,Científico,17,125,59,Severa
+443,60,78.8,1.81,M,4482,4,Viudo,Arequipa,Desarrollador,8,81,26,Moderada
+444,37,69.3,1.56,M,6775,2,Viudo,Tumbes,Desarrollador,27,98,11,Mínima
+445,32,94,1.69,M,1751,4,Viudo,Loreto,Arquitecto,27,111,1,Mínima
+446,46,80.4,1.62,M,4394,5,Viudo,Apurímac,Médico,30,91,17,Leve
+447,21,56,1.52,F,8027,5,Casado,Ayacucho,Arquitecto,21,103,7,Mínima
+448,50,65.5,1.77,F,6301,3,Viudo,Madre de Dios,Economista,19,107,4,Mínima
+449,41,58.6,1.8,M,6507,5,Casado,Cajamarca,Abogado,7,126,55,Severa
+450,32,72.4,1.99,M,2711,3,Casado,Lambayeque,Arquitecto,19,139,45,Severa
+451,30,64.2,1.88,M,8034,5,Divorciado,Ayacucho,Administrador,10,93,56,Severa
+452,62,89.9,1.7,F,2063,2,Casado,Apurímac,Médico,22,115,18,Leve
+453,31,62,1.55,F,9473,5,Casado,Madre de Dios,Científico,6,125,38,Severa
+454,24,56.8,1.53,F,3849,4,Viudo,San Martín,Contador,25,73,58,Severa
+455,48,69.6,1.83,M,8646,3,Viudo,Áncash,Técnico,12,122,3,Mínima
+456,20,76.2,1.81,M,5143,0,Soltero,Tacna,Economista,14,134,1,Mínima
+457,65,53,1.67,F,4691,3,Viudo,Callao,Profesor,37,127,46,Severa
+458,53,80.9,1.67,M,3371,1,Divorciado,Áncash,Técnico,23,83,56,Severa
+459,19,80.8,1.66,F,7183,4,Casado,Tacna,Científico,29,135,59,Severa
+460,28,76.7,1.58,M,3677,0,Divorciado,Ayacucho,Diseñador,4,126,46,Severa
+461,35,58.1,1.61,M,3438,5,Casado,Huancavelica,Médico,4,86,38,Severa
+462,59,87.6,1.94,M,7128,2,Divorciado,Cajamarca,Psicólogo,12,80,29,Severa
+463,48,87.1,1.79,F,2688,4,Soltero,Cajamarca,Ingeniero,12,130,41,Severa
+464,54,89.9,1.62,M,9894,1,Casado,Áncash,Psicólogo,33,73,29,Severa
+465,56,99.3,1.78,F,1313,4,Divorciado,La Libertad,Enfermero,21,99,10,Mínima
+466,54,60.5,1.64,F,4760,2,Viudo,Puno,Economista,37,93,13,Mínima
+467,42,70,1.58,F,3281,4,Casado,Madre de Dios,Diseñador,37,137,60,Severa
+468,28,62.2,1.63,M,9319,0,Casado,Loreto,Enfermero,10,123,36,Severa
+469,48,81,1.77,M,3288,0,Casado,Lima,Psicólogo,1,88,31,Severa
+470,37,80.9,1.9,F,1904,0,Divorciado,Pasco,Médico,22,102,28,Moderada
+471,48,88.4,1.96,M,7779,5,Viudo,Ayacucho,Psicólogo,14,113,29,Severa
+472,58,93.1,1.83,F,6190,3,Viudo,Huancavelica,Psicólogo,28,91,60,Severa
+473,24,85,1.64,F,9365,2,Viudo,Ucayali,Diseñador,16,136,9,Mínima
+474,43,98.2,1.82,F,8071,3,Casado,Lambayeque,Contador,29,78,61,Severa
+475,55,88.6,1.63,M,5394,2,Viudo,Moquegua,Contador,36,91,56,Severa
+476,29,60.8,1.82,F,4706,2,Soltero,Madre de Dios,Desarrollador,40,136,23,Moderada
+477,45,62.7,1.85,M,7573,1,Soltero,Amazonas,Abogado,10,101,4,Mínima
+478,64,55.3,1.68,M,8998,3,Casado,La Libertad,Enfermero,26,73,13,Mínima
+479,19,72.9,1.57,M,3286,5,Viudo,Junín,Abogado,19,125,0,Mínima
+480,43,65.1,1.54,F,6193,3,Viudo,Piura,Contador,5,73,47,Severa
+481,57,75.2,1.96,F,5888,1,Viudo,Pasco,Profesor,21,85,61,Severa
+482,35,90.9,1.69,M,5788,0,Soltero,Amazonas,Desarrollador,36,74,41,Severa
+483,47,68.9,1.62,M,9673,1,Casado,Ayacucho,Arquitecto,17,95,15,Leve
+484,61,84.6,1.68,M,6878,3,Viudo,Moquegua,Profesor,26,100,6,Mínima
+485,29,65.3,1.88,F,8657,4,Casado,Huancavelica,Ingeniero,23,140,52,Severa
+486,33,70.7,1.94,F,7167,3,Soltero,Loreto,Administrador,37,123,62,Severa
+487,24,50.3,1.77,M,4695,0,Divorciado,Tacna,Profesor,30,136,2,Mínima
+488,47,94.5,1.7,M,3297,3,Soltero,San Martín,Economista,33,78,3,Mínima
+489,60,62.4,1.67,F,6851,3,Soltero,Junín,Psicólogo,21,134,56,Severa
+490,22,84.3,1.96,M,7665,4,Divorciado,Ica,Enfermero,19,138,58,Severa
+491,23,79.2,1.73,M,4762,1,Soltero,Loreto,Contador,5,110,59,Severa
+492,35,63.4,1.55,M,4518,5,Soltero,Tumbes,Científico,32,110,33,Severa
+493,60,86.8,1.66,M,9047,0,Viudo,La Libertad,Científico,25,92,52,Severa
+494,47,71.9,1.78,M,8864,2,Divorciado,Junín,Médico,21,95,34,Severa
+495,55,95.5,1.93,F,1775,5,Divorciado,Loreto,Abogado,9,119,51,Severa
+496,50,75.5,1.58,M,6240,4,Viudo,Tacna,Periodista,24,99,35,Severa
+497,23,96.4,1.99,F,4841,4,Casado,Pasco,Contador,21,88,14,Leve
+498,28,57,1.58,M,7537,0,Divorciado,Huánuco,Desarrollador,21,134,19,Leve
+499,20,56.3,1.5,M,3589,2,Soltero,Huánuco,Diseñador,25,93,59,Severa
+500,20,77.7,1.92,F,3899,2,Viudo,Huancavelica,Enfermero,33,79,60,Severa
+501,65,74.4,1.56,M,9900,1,Soltero,Tacna,Enfermero,7,115,25,Moderada
+502,41,59.7,1.68,M,9392,1,Viudo,Ucayali,Desarrollador,31,109,6,Mínima
+503,35,97.3,1.74,F,9020,3,Divorciado,Ayacucho,Médico,19,111,3,Mínima
+504,19,97.5,1.81,M,4516,0,Divorciado,Cajamarca,Técnico,10,130,42,Severa
+505,50,84.6,1.53,M,7554,0,Casado,Apurímac,Economista,40,87,42,Severa
+506,58,93.8,1.58,F,2557,0,Casado,Cajamarca,Diseñador,5,93,43,Severa
+507,64,96.1,1.67,M,4269,2,Divorciado,Loreto,Técnico,10,126,9,Mínima
+508,32,81,1.8,F,7457,5,Soltero,Loreto,Psicólogo,5,137,50,Severa
+509,40,60.9,1.58,F,2938,5,Soltero,Loreto,Médico,33,131,11,Mínima
+510,65,87.7,1.53,F,7715,5,Divorciado,Cajamarca,Periodista,36,112,54,Severa
+511,42,59.7,1.76,F,7006,0,Divorciado,Ica,Arquitecto,22,79,56,Severa
+512,64,83.1,1.76,M,3982,3,Divorciado,Lima,Arquitecto,37,115,0,Mínima
+513,26,82.5,1.63,F,2648,2,Casado,Cusco,Psicólogo,18,140,16,Leve
+514,18,73.7,1.55,F,4651,2,Casado,Ucayali,Ingeniero,14,136,38,Severa
+515,51,92.4,1.6,M,2718,2,Divorciado,Loreto,Contador,1,127,62,Severa
+516,62,84.9,1.98,M,6601,4,Viudo,Áncash,Médico,37,138,30,Severa
+517,22,72.8,1.71,F,9503,4,Soltero,La Libertad,Periodista,38,112,40,Severa
+518,46,55.5,1.81,F,7608,1,Casado,Tumbes,Administrador,12,120,1,Mínima
+519,45,95.8,1.99,F,6639,2,Soltero,Huánuco,Economista,10,134,30,Severa
+520,44,75.4,1.94,F,2874,1,Soltero,Junín,Periodista,1,114,30,Severa
+521,56,90.9,1.61,F,6845,4,Viudo,Huancavelica,Contador,19,75,58,Severa
+522,58,85.9,1.53,F,5877,2,Soltero,Apurímac,Abogado,15,95,6,Mínima
+523,65,96.5,1.64,F,4350,5,Casado,Madre de Dios,Arquitecto,30,93,48,Severa
+524,23,99.3,1.87,F,3579,0,Divorciado,Huánuco,Médico,29,97,15,Leve
+525,61,87.2,1.8,F,7376,4,Divorciado,Amazonas,Administrador,40,136,1,Mínima
+526,58,72.2,1.63,M,4924,1,Divorciado,Ucayali,Contador,14,122,18,Leve
+527,51,79.4,1.57,M,8662,0,Viudo,Lima,Profesor,15,118,32,Severa
+528,56,75.3,1.6,F,8721,3,Divorciado,Pasco,Médico,12,95,61,Severa
+529,42,74.2,1.89,F,7911,2,Divorciado,Puno,Técnico,16,102,1,Mínima
+530,26,83.9,1.64,F,5156,0,Casado,Cajamarca,Administrador,20,88,22,Moderada
+531,33,67.7,1.81,M,5265,5,Soltero,Apurímac,Periodista,10,119,34,Severa
+532,57,74.2,1.7,M,4470,2,Divorciado,Piura,Periodista,0,116,36,Severa
+533,30,59.8,1.69,F,8760,0,Casado,San Martín,Médico,36,120,24,Moderada
+534,27,98,1.7,F,2800,0,Divorciado,Huánuco,Diseñador,20,88,23,Moderada
+535,31,98.7,1.8,F,2128,0,Soltero,Callao,Arquitecto,25,98,39,Severa
+536,24,79.1,1.8,M,5105,1,Viudo,Ica,Abogado,33,138,27,Moderada
+537,44,74.3,1.77,F,1655,5,Divorciado,Tumbes,Administrador,18,111,23,Moderada
+538,50,54.1,1.84,F,2378,5,Casado,Cusco,Diseñador,1,103,11,Mínima
+539,32,54,1.72,F,2984,3,Casado,Arequipa,Abogado,3,133,14,Leve
+540,44,62,1.94,F,3519,1,Casado,Lima,Ingeniero,38,130,52,Severa
+541,29,78.8,1.8,M,8721,3,Viudo,San Martín,Diseñador,1,140,9,Mínima
+542,56,72.2,1.64,F,7386,3,Viudo,Lambayeque,Enfermero,23,110,57,Severa
+543,43,71.3,1.83,F,4076,0,Soltero,San Martín,Técnico,28,72,4,Mínima
+544,53,72.7,1.93,F,2425,4,Casado,Lambayeque,Técnico,8,137,19,Leve
+545,31,51.7,1.75,M,2626,4,Viudo,Callao,Psicólogo,39,79,13,Mínima
+546,51,54.4,1.9,M,3532,0,Divorciado,Tumbes,Diseñador,35,98,22,Moderada
+547,41,51.4,1.87,F,2614,0,Casado,Moquegua,Psicólogo,14,129,21,Moderada
+548,24,55.1,1.76,F,5964,2,Viudo,Cusco,Enfermero,11,124,20,Moderada
+549,19,67,1.62,F,9329,2,Viudo,Madre de Dios,Abogado,35,71,16,Leve
+550,45,78.7,1.5,M,5112,1,Casado,Lambayeque,Periodista,13,130,37,Severa
+551,36,70,1.61,F,4310,3,Viudo,Junín,Ingeniero,12,118,49,Severa
+552,23,91.2,1.62,M,9461,0,Soltero,Tumbes,Científico,9,80,23,Moderada
+553,30,57.7,1.91,F,5861,5,Soltero,La Libertad,Enfermero,23,89,28,Moderada
+554,34,66.9,1.88,M,4791,0,Divorciado,Loreto,Desarrollador,10,108,11,Mínima
+555,28,65.1,1.84,M,8854,1,Divorciado,Cusco,Economista,23,87,21,Moderada
+556,52,76.4,1.79,F,7242,0,Soltero,Huancavelica,Abogado,19,132,18,Leve
+557,63,78.6,1.66,F,7304,2,Divorciado,Apurímac,Contador,40,138,55,Severa
+558,23,62.3,1.61,M,3307,2,Soltero,La Libertad,Periodista,33,134,9,Mínima
+559,54,84.1,1.54,M,4346,2,Viudo,Ica,Diseñador,40,77,50,Severa
+560,59,60.9,1.98,F,8812,5,Soltero,Callao,Arquitecto,38,73,49,Severa
+561,47,83,1.62,F,8482,0,Soltero,Junín,Desarrollador,22,85,41,Severa
+562,29,82,1.75,M,7472,5,Casado,Cusco,Abogado,25,129,44,Severa
+563,36,56,1.92,M,3907,2,Divorciado,Arequipa,Técnico,7,75,51,Severa
+564,34,88.2,1.89,M,6978,2,Soltero,Pasco,Técnico,4,93,7,Mínima
+565,28,56.2,1.81,F,7068,0,Soltero,Huancavelica,Médico,13,71,29,Severa
+566,41,97.7,1.7,M,8604,5,Divorciado,Callao,Técnico,8,119,53,Severa
+567,43,92.5,1.62,F,8676,4,Soltero,Tumbes,Científico,3,122,30,Severa
+568,55,71.7,1.57,M,5553,4,Soltero,Junín,Psicólogo,13,74,24,Moderada
+569,58,98.4,1.53,M,8906,5,Casado,Madre de Dios,Administrador,31,99,61,Severa
+570,59,62.6,1.89,M,6148,3,Viudo,Lambayeque,Arquitecto,10,111,14,Leve
+571,65,87.2,1.57,F,6845,3,Casado,Ica,Técnico,6,123,16,Leve
+572,59,54.6,1.78,F,9268,3,Viudo,Piura,Economista,3,101,27,Moderada
+573,31,90.5,1.53,F,7990,0,Soltero,Tumbes,Técnico,13,89,9,Mínima
+574,20,78.5,1.56,M,7114,2,Viudo,Madre de Dios,Arquitecto,22,102,14,Leve
+575,19,57.4,1.63,M,7210,1,Casado,La Libertad,Ingeniero,24,112,58,Severa
+576,21,69.6,1.56,M,5360,2,Divorciado,San Martín,Contador,27,85,59,Severa
+577,64,87.1,1.57,F,8378,0,Divorciado,Piura,Científico,38,99,11,Mínima
+578,42,97,1.67,M,7962,5,Casado,Cajamarca,Abogado,6,123,53,Severa
+579,21,85.5,1.53,M,7013,1,Viudo,Huánuco,Psicólogo,32,71,57,Severa
+580,50,78,1.58,M,3293,2,Soltero,Arequipa,Abogado,37,79,26,Moderada
+581,34,61.3,1.63,F,3720,5,Soltero,Lambayeque,Administrador,11,125,35,Severa
+582,40,70.8,1.92,F,2826,1,Casado,Huancavelica,Periodista,19,130,9,Mínima
+583,27,56.9,1.83,F,3729,4,Viudo,Huancavelica,Arquitecto,19,94,8,Mínima
+584,22,63.2,1.77,F,4340,0,Viudo,Cusco,Diseñador,27,127,42,Severa
+585,50,75.4,1.61,M,6819,5,Divorciado,Puno,Técnico,27,123,46,Severa
+586,30,89,1.64,F,1887,5,Soltero,Ucayali,Contador,40,106,58,Severa
+587,61,60.2,1.91,F,7842,1,Soltero,La Libertad,Enfermero,2,126,54,Severa
+588,20,99.8,1.61,F,1305,4,Soltero,San Martín,Científico,33,140,38,Severa
+589,36,77.8,1.8,M,1900,0,Casado,Junín,Arquitecto,35,125,20,Moderada
+590,45,85.1,1.79,M,9450,4,Viudo,Ica,Abogado,15,111,23,Moderada
+591,56,54.8,1.8,F,3141,5,Soltero,Ucayali,Médico,14,137,41,Severa
+592,18,53,2,M,3064,0,Soltero,Arequipa,Ingeniero,23,134,1,Mínima
+593,51,85.8,1.69,M,3707,5,Casado,Callao,Arquitecto,34,76,24,Moderada
+594,52,84.1,1.93,M,9232,5,Casado,Huánuco,Desarrollador,6,95,8,Mínima
+595,53,61,1.68,M,6063,5,Soltero,Pasco,Ingeniero,1,130,32,Severa
+596,33,81.7,1.89,M,1796,2,Soltero,Cajamarca,Científico,39,127,21,Moderada
+597,34,81.9,1.57,M,3778,5,Viudo,Ica,Enfermero,25,80,51,Severa
+598,59,55.3,1.77,F,6479,1,Casado,Loreto,Científico,14,85,59,Severa
+599,25,59.1,1.77,F,1989,5,Casado,Ayacucho,Periodista,24,98,31,Severa
+600,54,61,1.68,F,7963,3,Divorciado,Madre de Dios,Profesor,40,88,20,Moderada
+601,40,80.8,1.5,F,2572,0,Casado,Moquegua,Economista,27,115,8,Mínima
+602,65,55.7,1.98,M,6493,1,Soltero,Junín,Desarrollador,18,133,36,Severa
+603,49,70.7,1.54,F,3871,1,Divorciado,Lambayeque,Profesor,34,93,22,Moderada
+604,40,78.1,1.56,F,6001,3,Divorciado,Ica,Periodista,40,124,34,Severa
+605,36,82.4,1.64,M,1590,0,Soltero,Lambayeque,Enfermero,1,108,14,Leve
+606,44,70,1.58,M,9063,5,Viudo,Ica,Científico,38,115,50,Severa
+607,36,60.4,1.69,M,2054,5,Casado,Apurímac,Científico,37,112,60,Severa
+608,47,77.6,1.85,M,5535,5,Casado,Arequipa,Abogado,38,120,45,Severa
+609,59,70.9,1.64,F,9359,3,Divorciado,Cusco,Profesor,28,103,22,Moderada
+610,19,56.2,1.97,F,5934,1,Soltero,Tacna,Científico,0,132,58,Severa
+611,36,53,1.86,M,2444,0,Divorciado,Moquegua,Desarrollador,26,88,50,Severa
+612,40,91.9,1.96,F,8976,1,Divorciado,Tacna,Periodista,22,87,48,Severa
+613,30,98.4,1.83,M,2173,5,Viudo,Tacna,Contador,35,90,39,Severa
+614,64,57.6,1.68,M,2512,0,Casado,Madre de Dios,Psicólogo,2,75,29,Severa
+615,54,73.6,1.98,M,2946,4,Soltero,Amazonas,Administrador,17,122,17,Leve
+616,36,68.5,1.77,F,4611,5,Viudo,Callao,Médico,12,140,30,Severa
+617,42,68.7,1.72,F,4617,0,Soltero,Moquegua,Ingeniero,0,135,5,Mínima
+618,65,96.4,1.52,M,9728,5,Divorciado,Junín,Contador,38,101,62,Severa
+619,26,77.9,1.81,F,8337,4,Viudo,Áncash,Administrador,6,140,10,Mínima
+620,23,85,1.88,F,5436,1,Divorciado,Junín,Técnico,31,96,35,Severa
+621,19,67.3,1.54,M,5044,5,Divorciado,Madre de Dios,Científico,40,74,44,Severa
+622,41,51.8,1.78,M,3208,2,Soltero,Apurímac,Técnico,10,137,31,Severa
+623,30,79.8,1.76,M,3777,1,Casado,Moquegua,Psicólogo,14,77,43,Severa
+624,36,56.5,1.98,M,9989,0,Viudo,Lima,Psicólogo,13,120,21,Moderada
+625,48,94.7,1.7,M,7958,4,Divorciado,Tumbes,Diseñador,38,87,18,Leve
+626,26,89.4,1.57,F,8081,1,Viudo,Áncash,Administrador,15,91,59,Severa
+627,56,99,1.96,M,9666,3,Soltero,Pasco,Economista,40,74,30,Severa
+628,21,80.7,1.91,F,3211,1,Casado,Arequipa,Economista,37,100,58,Severa
+629,64,62.1,1.75,M,6645,4,Casado,Tacna,Economista,8,130,33,Severa
+630,19,63,1.74,M,2144,0,Divorciado,Áncash,Enfermero,6,121,20,Moderada
+631,39,81,1.98,M,5533,0,Divorciado,Tacna,Contador,11,123,33,Severa
+632,61,87.5,1.83,M,7582,4,Casado,Madre de Dios,Médico,25,130,4,Mínima
+633,23,91,1.77,M,3932,4,Divorciado,Ucayali,Científico,39,75,0,Mínima
+634,29,90.1,1.93,M,8474,3,Viudo,Cajamarca,Abogado,36,127,50,Severa
+635,29,90,1.92,M,4697,3,Viudo,Cajamarca,Contador,11,128,30,Severa
+636,25,84.6,1.83,M,6241,3,Divorciado,Lambayeque,Desarrollador,18,113,25,Moderada
+637,49,66.1,1.75,M,2970,4,Viudo,Callao,Enfermero,19,116,0,Mínima
+638,42,64.8,1.88,F,6771,2,Divorciado,Tacna,Científico,19,93,19,Leve
+639,27,83.1,1.55,F,2586,4,Divorciado,Lima,Enfermero,11,102,47,Severa
+640,49,77,1.54,F,2524,0,Viudo,Tacna,Abogado,15,138,19,Leve
+641,24,82.3,1.95,M,2307,2,Divorciado,Huánuco,Desarrollador,21,94,39,Severa
+642,41,72.5,1.9,M,5755,4,Viudo,Apurímac,Arquitecto,40,106,3,Mínima
+643,30,62.2,1.62,F,2144,5,Soltero,Ica,Diseñador,8,119,17,Leve
+644,25,91.9,1.92,M,2958,5,Divorciado,Tacna,Diseñador,37,91,27,Moderada
+645,48,61.1,1.71,F,5158,5,Divorciado,Pasco,Arquitecto,39,98,15,Leve
+646,24,65.8,1.81,M,9645,2,Soltero,Arequipa,Economista,7,72,45,Severa
+647,57,85.4,1.85,F,4362,1,Soltero,Junín,Abogado,11,117,49,Severa
+648,23,50.4,1.88,F,8959,1,Viudo,Madre de Dios,Desarrollador,31,108,15,Leve
+649,34,65.9,1.99,M,3683,4,Divorciado,Huánuco,Enfermero,18,95,48,Severa
+650,48,72.6,1.98,M,1355,0,Soltero,Áncash,Economista,31,76,4,Mínima
+651,57,60,1.66,M,9062,3,Divorciado,Lambayeque,Científico,15,131,48,Severa
+652,43,94,1.96,F,2860,1,Soltero,Lima,Abogado,31,127,15,Leve
+653,65,71.6,1.88,F,8763,3,Viudo,Pasco,Administrador,14,70,7,Mínima
+654,28,63.2,1.53,M,8732,0,Viudo,Lambayeque,Diseñador,23,103,55,Severa
+655,21,68.3,1.6,F,4407,0,Casado,Lima,Médico,20,121,36,Severa
+656,53,61.9,1.58,M,3212,0,Viudo,Pasco,Abogado,14,87,53,Severa
+657,27,86.9,1.75,F,3965,4,Divorciado,Amazonas,Ingeniero,23,136,5,Mínima
+658,56,50.5,1.83,M,7412,0,Soltero,Lambayeque,Médico,28,123,0,Mínima
+659,52,90.7,1.92,F,9461,1,Divorciado,Huancavelica,Administrador,9,104,39,Severa
+660,42,71.3,1.77,M,4400,0,Viudo,Loreto,Ingeniero,36,114,5,Mínima
+661,57,65.1,1.86,M,6683,5,Soltero,Tacna,Profesor,3,104,46,Severa
+662,38,89.8,1.51,F,5151,1,Soltero,Piura,Enfermero,36,127,50,Severa
+663,43,87.2,1.85,F,3972,0,Soltero,Ayacucho,Abogado,9,128,33,Severa
+664,47,84.6,1.94,F,3055,2,Casado,Moquegua,Contador,18,82,37,Severa
+665,62,72.2,1.73,M,1442,0,Viudo,Apurímac,Médico,31,115,44,Severa
+666,40,84,1.84,F,5297,5,Viudo,Piura,Diseñador,17,123,53,Severa
+667,33,97.3,1.65,M,5077,1,Soltero,Moquegua,Psicólogo,19,88,44,Severa
+668,19,57.2,1.52,F,3953,1,Soltero,Lima,Psicólogo,13,89,54,Severa
+669,21,90.3,1.98,F,9942,2,Casado,San Martín,Técnico,18,110,47,Severa
+670,26,58.6,1.92,F,8550,2,Soltero,Madre de Dios,Periodista,20,129,62,Severa
+671,46,82.6,1.85,F,4921,3,Soltero,Lambayeque,Desarrollador,15,136,0,Mínima
+672,53,64.4,1.78,F,2974,2,Soltero,Callao,Ingeniero,40,122,62,Severa
+673,22,64.3,1.58,M,1272,3,Casado,Arequipa,Psicólogo,8,91,36,Severa
+674,31,65.2,1.58,F,8016,1,Viudo,Huancavelica,Científico,5,86,0,Mínima
+675,31,84.3,1.81,F,6521,3,Viudo,Ayacucho,Desarrollador,20,79,59,Severa
+676,58,52.3,1.65,M,7149,0,Viudo,Apurímac,Técnico,1,76,56,Severa
+677,59,84.8,1.54,M,8851,2,Divorciado,Ayacucho,Profesor,7,137,58,Severa
+678,56,53.3,1.81,M,9534,5,Divorciado,Ayacucho,Diseñador,20,94,32,Severa
+679,29,59.2,1.96,F,9392,4,Casado,Pasco,Desarrollador,19,85,55,Severa
+680,21,78,1.51,F,2750,5,Divorciado,Ucayali,Técnico,11,127,41,Severa
+681,48,97.9,1.6,F,1941,1,Viudo,Cajamarca,Abogado,20,140,60,Severa
+682,18,81.3,1.87,F,8476,5,Divorciado,Ayacucho,Contador,18,112,0,Mínima
+683,21,88.2,1.64,M,8557,2,Soltero,Ayacucho,Profesor,18,128,15,Leve
+684,32,62,1.97,M,5672,3,Divorciado,Moquegua,Médico,5,85,30,Severa
+685,25,71.8,1.74,M,3686,1,Viudo,Callao,Científico,36,95,17,Leve
+686,38,60.3,1.64,F,1705,1,Casado,Ica,Enfermero,39,103,43,Severa
+687,39,82.2,1.86,F,5802,2,Viudo,Tumbes,Arquitecto,30,107,55,Severa
+688,20,84.6,1.58,M,5401,4,Casado,Cajamarca,Técnico,24,84,41,Severa
+689,41,85.3,2,M,7965,3,Casado,Arequipa,Periodista,10,119,22,Moderada
+690,58,64.1,1.76,F,5562,2,Viudo,Ayacucho,Ingeniero,15,112,54,Severa
+691,29,90.6,1.63,M,9171,4,Soltero,Pasco,Profesor,14,86,53,Severa
+692,60,80.9,1.75,F,6428,3,Divorciado,Pasco,Desarrollador,22,114,52,Severa
+693,53,61.1,1.88,F,3884,4,Casado,Piura,Contador,30,88,16,Leve
+694,28,54.7,1.71,F,9132,4,Divorciado,La Libertad,Científico,37,124,1,Mínima
+695,55,58.4,1.95,M,1429,2,Divorciado,Huánuco,Enfermero,13,80,35,Severa
+696,20,91.8,1.77,F,6140,5,Viudo,San Martín,Enfermero,0,123,42,Severa
+697,52,59.7,1.73,M,3862,1,Casado,Áncash,Economista,8,105,12,Mínima
+698,23,83.8,1.73,M,9570,2,Viudo,Pasco,Periodista,30,73,24,Moderada
+699,34,85.4,1.87,M,8497,5,Casado,Pasco,Técnico,5,120,45,Severa
+700,48,61.2,1.55,F,1647,0,Viudo,Lambayeque,Contador,27,97,11,Mínima
+701,42,92.3,1.88,F,8463,1,Casado,Junín,Arquitecto,11,133,18,Leve
+702,61,67.5,1.54,F,5235,1,Divorciado,Áncash,Técnico,21,125,42,Severa
+703,19,74.4,1.61,F,9356,2,Divorciado,Madre de Dios,Psicólogo,18,127,15,Leve
+704,45,53.7,1.79,M,3195,4,Casado,Amazonas,Periodista,38,82,17,Leve
+705,28,67.2,1.63,F,2978,3,Divorciado,Ucayali,Contador,4,77,15,Leve
+706,30,76.3,1.53,F,4950,5,Divorciado,Callao,Psicólogo,21,100,28,Moderada
+707,61,67.9,1.99,F,6056,5,Casado,Callao,Profesor,33,92,35,Severa
+708,33,100,1.6,F,8931,4,Soltero,Ayacucho,Ingeniero,30,81,20,Moderada
+709,58,51.2,1.63,M,5817,5,Viudo,Cajamarca,Economista,31,128,7,Mínima
+710,30,87.3,1.65,F,1342,3,Divorciado,Pasco,Arquitecto,7,74,45,Severa
+711,38,95.9,1.61,F,8754,2,Divorciado,Pasco,Ingeniero,30,73,55,Severa
+712,38,60.5,1.85,M,5619,3,Divorciado,Cajamarca,Científico,24,113,41,Severa
+713,24,95.2,1.94,M,4659,2,Divorciado,Apurímac,Ingeniero,38,110,2,Mínima
+714,54,64.3,1.88,M,3297,3,Soltero,San Martín,Economista,21,90,43,Severa
+715,18,68.6,1.54,F,8406,0,Viudo,Arequipa,Psicólogo,26,89,18,Leve
+716,26,70.4,1.9,M,2454,0,Divorciado,Ayacucho,Periodista,37,80,22,Moderada
+717,35,52.7,1.74,M,6603,1,Soltero,Áncash,Ingeniero,26,85,48,Severa
+718,34,91.4,1.94,F,8037,4,Soltero,La Libertad,Administrador,2,72,55,Severa
+719,34,86.9,1.76,F,3655,4,Viudo,La Libertad,Diseñador,39,129,34,Severa
+720,31,53.7,1.62,F,3441,1,Viudo,Cusco,Psicólogo,21,117,17,Leve
+721,44,78.2,1.68,F,8099,2,Soltero,Tacna,Economista,29,75,30,Severa
+722,60,79.6,1.7,F,9648,4,Divorciado,Apurímac,Ingeniero,19,74,27,Moderada
+723,59,77.5,1.93,M,5200,2,Soltero,Loreto,Desarrollador,25,100,59,Severa
+724,65,76.5,1.96,F,8119,1,Casado,San Martín,Administrador,11,82,35,Severa
+725,58,53.5,1.77,M,9923,1,Divorciado,Arequipa,Enfermero,1,85,57,Severa
+726,28,81.2,1.52,F,8770,0,Viudo,Huánuco,Científico,9,106,20,Moderada
+727,58,90.1,1.83,M,2491,5,Casado,Ayacucho,Diseñador,1,88,57,Severa
+728,27,77.2,1.5,M,3180,5,Soltero,Huánuco,Científico,28,122,16,Leve
+729,56,99.3,1.55,F,5019,3,Viudo,Ucayali,Contador,26,121,61,Severa
+730,34,91,1.59,F,5119,1,Soltero,Cajamarca,Periodista,11,130,1,Mínima
+731,39,99.9,1.92,F,5972,5,Divorciado,Ayacucho,Ingeniero,15,73,63,Severa
+732,30,53.9,1.79,F,1751,3,Soltero,La Libertad,Técnico,6,95,57,Severa
+733,40,76.6,1.79,F,2043,0,Viudo,Arequipa,Periodista,26,95,29,Severa
+734,42,66,1.78,F,3363,1,Viudo,Cusco,Arquitecto,30,127,19,Leve
+735,36,52.1,1.58,M,7674,1,Casado,Ica,Técnico,38,88,34,Severa
+736,31,94,1.91,M,1366,2,Viudo,Ica,Técnico,6,138,32,Severa
+737,30,50.7,1.83,F,8647,2,Divorciado,Loreto,Científico,11,89,59,Severa
+738,37,69.4,1.65,M,9735,3,Casado,Junín,Enfermero,36,123,51,Severa
+739,26,96.5,1.75,M,4333,0,Divorciado,San Martín,Científico,32,104,36,Severa
+740,58,66.9,1.65,M,8493,2,Divorciado,Lima,Psicólogo,7,100,29,Severa
+741,24,55.6,1.63,M,8029,2,Soltero,Puno,Administrador,28,107,14,Leve
+742,45,75.2,1.71,M,8177,2,Casado,Arequipa,Científico,39,140,55,Severa
+743,49,82.9,1.83,M,3817,5,Divorciado,La Libertad,Científico,4,119,34,Severa
+744,23,93.4,1.58,F,4521,0,Viudo,Piura,Médico,21,73,7,Mínima
+745,19,76,1.65,M,6825,2,Divorciado,Arequipa,Profesor,32,101,57,Severa
+746,42,97.9,1.93,F,6803,3,Divorciado,Ayacucho,Ingeniero,5,137,9,Mínima
+747,39,85.9,1.79,F,3462,2,Soltero,Lambayeque,Profesor,25,98,8,Mínima
+748,24,60,1.51,F,7135,1,Soltero,Lima,Profesor,10,95,39,Severa
+749,35,50.8,1.62,F,3383,3,Divorciado,Lima,Profesor,12,80,8,Mínima
+750,27,83.6,1.7,F,3500,0,Soltero,Apurímac,Enfermero,31,106,19,Leve
+751,42,64.6,1.67,M,8229,0,Viudo,Ayacucho,Médico,35,120,33,Severa
+752,18,73.9,1.73,M,4608,1,Soltero,Lambayeque,Administrador,12,81,5,Mínima
+753,63,56.8,1.53,M,4104,0,Casado,Junín,Periodista,0,108,36,Severa
+754,46,70.9,1.57,M,2098,1,Viudo,San Martín,Arquitecto,18,94,23,Moderada
+755,22,83.8,1.89,F,5020,0,Viudo,Huánuco,Ingeniero,6,138,42,Severa
+756,55,75.4,1.98,M,6871,4,Casado,Lambayeque,Diseñador,23,109,47,Severa
+757,41,86,1.6,F,2205,0,Viudo,Lima,Profesor,27,135,57,Severa
+758,35,77.5,1.5,M,5942,5,Soltero,Madre de Dios,Contador,18,120,23,Moderada
+759,64,64.6,1.91,M,8760,4,Casado,Ayacucho,Diseñador,39,110,49,Severa
+760,56,88.9,1.72,M,7350,0,Viudo,Ica,Diseñador,35,79,13,Mínima
+761,35,56.6,1.96,F,7561,0,Casado,San Martín,Economista,3,110,36,Severa
+762,22,81.1,1.7,M,8628,0,Divorciado,Ucayali,Ingeniero,12,127,44,Severa
+763,41,96.7,1.87,M,4313,0,Divorciado,Tumbes,Diseñador,17,132,44,Severa
+764,24,84.7,1.78,M,9049,5,Casado,Loreto,Profesor,28,120,12,Mínima
+765,61,90.8,1.96,M,7039,3,Soltero,Ucayali,Científico,11,114,11,Mínima
+766,32,50.3,1.67,F,9114,4,Divorciado,Huancavelica,Psicólogo,29,80,33,Severa
+767,58,72,1.74,M,6408,4,Casado,Tacna,Enfermero,15,87,47,Severa
+768,37,60.1,1.99,F,2661,0,Divorciado,Áncash,Diseñador,10,70,31,Severa
+769,55,65.9,1.91,F,9326,2,Divorciado,Tumbes,Diseñador,31,116,50,Severa
+770,65,61.2,1.58,F,8659,2,Soltero,Áncash,Profesor,7,99,18,Leve
+771,39,76.3,1.89,F,1459,0,Soltero,Huancavelica,Arquitecto,27,123,3,Mínima
+772,31,50,1.91,M,4445,2,Soltero,Arequipa,Arquitecto,29,75,61,Severa
+773,40,78.9,1.91,M,9922,4,Divorciado,Ucayali,Contador,2,94,16,Leve
+774,59,69.1,1.76,M,8065,5,Divorciado,Moquegua,Diseñador,24,133,37,Severa
+775,33,84.7,1.89,M,1959,1,Divorciado,Apurímac,Psicólogo,14,103,60,Severa
+776,65,97.9,1.51,F,4083,5,Soltero,San Martín,Economista,24,87,5,Mínima
+777,58,99.4,1.66,F,7595,1,Soltero,Junín,Profesor,27,140,23,Moderada
+778,63,60.6,1.63,M,4859,3,Viudo,Tacna,Abogado,6,88,62,Severa
+779,65,54.1,1.6,M,1459,2,Soltero,Ayacucho,Periodista,11,121,15,Leve
+780,26,92.2,1.88,M,4015,4,Viudo,Cajamarca,Científico,26,94,45,Severa
+781,52,97.9,1.73,F,9945,3,Viudo,Ica,Psicólogo,1,123,38,Severa
+782,65,84.7,1.84,M,2737,2,Divorciado,Áncash,Arquitecto,11,135,48,Severa
+783,50,50.2,1.56,F,6661,2,Soltero,Pasco,Psicólogo,13,116,9,Mínima
+784,27,78.4,1.57,M,2630,2,Casado,Lambayeque,Contador,9,85,50,Severa
+785,44,62.5,1.54,M,6125,4,Casado,Piura,Desarrollador,34,128,11,Mínima
+786,26,87.7,1.84,F,6260,5,Viudo,Piura,Economista,28,125,58,Severa
+787,48,63.1,1.68,F,5828,5,Soltero,Junín,Administrador,9,139,8,Mínima
+788,25,74,1.95,M,5750,1,Soltero,Ayacucho,Contador,31,93,53,Severa
+789,63,66.6,1.67,M,6194,1,Casado,Puno,Científico,16,76,55,Severa
+790,31,89.6,1.65,M,8216,3,Divorciado,San Martín,Científico,37,140,9,Mínima
+791,52,80,1.74,M,3970,5,Viudo,Ica,Periodista,38,128,61,Severa
+792,35,93.7,1.91,M,5871,4,Soltero,Puno,Periodista,7,81,21,Moderada
+793,58,63.9,1.95,F,4323,5,Casado,Junín,Economista,35,108,59,Severa
+794,18,93.2,1.92,M,6936,0,Soltero,Apurímac,Científico,20,118,28,Moderada
+795,28,52.5,1.67,M,3834,1,Viudo,Ucayali,Contador,15,93,21,Moderada
+796,62,64.6,1.91,M,7548,0,Viudo,La Libertad,Médico,10,119,48,Severa
+797,65,94,1.96,M,6229,1,Casado,Cusco,Economista,13,76,16,Leve
+798,56,57.5,1.71,M,3707,5,Viudo,Junín,Enfermero,13,132,37,Severa
+799,61,80.3,1.74,M,7940,0,Viudo,Callao,Ingeniero,32,103,29,Severa
+800,42,65.7,1.63,F,4812,1,Casado,Amazonas,Psicólogo,30,110,43,Severa
+801,23,67.7,1.57,F,8259,3,Viudo,Piura,Profesor,34,111,2,Mínima
+802,54,73.3,1.9,F,5165,4,Divorciado,Ica,Enfermero,1,135,26,Moderada
+803,23,51.6,1.78,F,5361,5,Viudo,Pasco,Profesor,36,111,20,Moderada
+804,47,78.6,1.87,M,6443,1,Divorciado,Tumbes,Economista,32,137,52,Severa
+805,25,71.8,1.66,M,5646,1,Viudo,San Martín,Científico,11,109,55,Severa
+806,19,91,1.98,M,5691,5,Divorciado,Pasco,Enfermero,21,117,32,Severa
+807,41,97.2,1.79,F,9915,4,Casado,Loreto,Abogado,15,78,48,Severa
+808,57,72.3,1.78,F,8753,5,Divorciado,San Martín,Médico,10,121,58,Severa
+809,46,79.4,1.84,M,3724,1,Soltero,Arequipa,Enfermero,32,86,6,Mínima
+810,18,99.4,1.78,M,1877,5,Casado,Huancavelica,Abogado,1,76,57,Severa
+811,35,72.8,1.52,M,4081,3,Viudo,Ayacucho,Enfermero,22,125,21,Moderada
+812,30,76.3,1.65,F,2013,5,Viudo,Cajamarca,Médico,6,137,3,Mínima
+813,32,92.1,1.54,M,7480,4,Viudo,Huánuco,Profesor,29,74,1,Mínima
+814,57,96,1.91,F,5618,0,Soltero,Loreto,Científico,22,126,47,Severa
+815,38,93,1.72,M,8117,0,Soltero,San Martín,Periodista,16,138,62,Severa
+816,56,93.2,1.94,M,8108,3,Soltero,Tumbes,Economista,33,78,26,Moderada
+817,36,76.6,1.7,M,5191,0,Divorciado,Tumbes,Enfermero,18,131,46,Severa
+818,22,69.3,1.6,F,4721,3,Divorciado,Piura,Diseñador,2,92,59,Severa
+819,20,53,1.63,F,9917,2,Soltero,Arequipa,Administrador,40,106,38,Severa
+820,30,75.8,1.64,M,6464,0,Viudo,Apurímac,Administrador,33,123,3,Mínima
+821,20,92.4,1.78,M,1720,2,Viudo,Apurímac,Enfermero,32,117,47,Severa
+822,50,76.4,1.64,F,2769,5,Casado,Lima,Arquitecto,13,77,3,Mínima
+823,21,50.6,1.96,F,1633,4,Divorciado,Junín,Enfermero,17,136,47,Severa
+824,59,85.4,1.72,M,7585,5,Divorciado,Pasco,Enfermero,18,102,49,Severa
+825,64,62.9,1.8,M,9809,1,Casado,Ica,Profesor,15,121,59,Severa
+826,58,54.3,1.98,M,7942,1,Soltero,Ayacucho,Arquitecto,13,122,56,Severa
+827,61,75.4,1.9,M,4566,3,Divorciado,Ayacucho,Abogado,15,116,34,Severa
+828,40,63,1.85,F,9432,5,Viudo,Huancavelica,Desarrollador,37,75,45,Severa
+829,23,90.4,1.97,F,8508,5,Divorciado,Ucayali,Enfermero,29,100,47,Severa
+830,36,59.7,1.91,F,4436,4,Divorciado,Ayacucho,Psicólogo,14,124,36,Severa
+831,40,97.2,1.55,M,3193,3,Divorciado,Arequipa,Periodista,26,131,49,Severa
+832,39,59.6,1.66,M,5850,1,Casado,Tumbes,Ingeniero,34,120,12,Mínima
+833,22,54.6,1.65,F,7094,0,Viudo,Cusco,Economista,40,98,61,Severa
+834,58,98.2,1.71,M,8712,5,Viudo,Lambayeque,Médico,19,96,7,Mínima
+835,18,98.5,1.69,F,5821,2,Divorciado,Piura,Científico,14,127,30,Severa
+836,26,97.6,1.77,M,7589,1,Divorciado,Ucayali,Economista,10,97,5,Mínima
+837,25,52.5,1.55,F,2250,3,Viudo,Pasco,Profesor,28,137,55,Severa
+838,28,65.7,1.52,F,5719,4,Casado,San Martín,Enfermero,26,107,32,Severa
+839,26,94.1,1.52,M,4021,3,Viudo,Loreto,Abogado,22,98,17,Leve
+840,20,97.4,1.9,F,7292,4,Viudo,Lambayeque,Profesor,13,105,32,Severa
+841,45,96.7,1.77,F,4414,1,Viudo,Huánuco,Enfermero,20,83,26,Moderada
+842,31,92.6,1.89,M,9191,2,Divorciado,Lima,Enfermero,10,72,25,Moderada
+843,64,68.7,1.85,M,9601,5,Casado,Cajamarca,Científico,22,107,12,Mínima
+844,65,87.9,1.78,F,1594,5,Casado,Madre de Dios,Enfermero,16,101,41,Severa
+845,27,88.1,1.83,M,8099,3,Viudo,Lambayeque,Enfermero,6,82,17,Leve
+846,26,77.1,1.63,M,8525,0,Divorciado,Madre de Dios,Administrador,10,134,61,Severa
+847,60,69.1,1.74,M,2512,1,Casado,Tumbes,Periodista,12,131,3,Mínima
+848,41,98.9,1.53,F,8785,0,Casado,Pasco,Economista,4,104,36,Severa
+849,19,77.6,1.93,M,5566,0,Casado,Loreto,Médico,38,113,2,Mínima
+850,36,63.1,1.71,M,6968,2,Casado,Amazonas,Economista,29,124,38,Severa
+851,28,54.6,1.96,M,2539,1,Soltero,Áncash,Científico,6,126,54,Severa
+852,63,93.9,1.69,F,4428,5,Soltero,Pasco,Administrador,2,111,15,Leve
+853,54,67.6,1.86,F,8698,0,Soltero,San Martín,Médico,34,120,57,Severa
+854,58,66.6,1.55,F,2293,1,Soltero,La Libertad,Técnico,3,93,27,Moderada
+855,43,55.1,1.54,F,2678,3,Divorciado,San Martín,Ingeniero,24,116,34,Severa
+856,29,74.3,1.73,M,8087,0,Soltero,Callao,Administrador,38,118,16,Leve
+857,32,59.7,1.61,F,7475,5,Viudo,Tacna,Diseñador,17,95,50,Severa
+858,27,76.9,1.92,F,5720,3,Soltero,Callao,Ingeniero,20,104,62,Severa
+859,53,53.3,1.52,F,3219,4,Casado,Tacna,Ingeniero,23,75,13,Mínima
+860,41,82,1.6,F,2967,3,Viudo,Pasco,Contador,1,111,24,Moderada
+861,58,57.2,1.57,F,7140,2,Casado,Huánuco,Enfermero,0,99,40,Severa
+862,24,86.3,1.89,F,9195,5,Soltero,Puno,Profesor,22,121,11,Mínima
+863,62,56.6,1.95,M,5059,5,Divorciado,Tumbes,Técnico,30,123,6,Mínima
+864,18,97.8,1.93,F,5777,2,Casado,Callao,Científico,0,127,58,Severa
+865,47,72.1,1.84,F,4550,4,Divorciado,Ayacucho,Periodista,7,109,28,Moderada
+866,58,90.7,1.6,M,6788,0,Divorciado,Tacna,Arquitecto,21,99,59,Severa
+867,55,99.4,1.86,M,7985,4,Casado,Cajamarca,Profesor,37,85,33,Severa
+868,28,76.9,1.7,F,7224,3,Casado,La Libertad,Técnico,19,81,63,Severa
+869,65,71.9,1.8,M,8106,3,Soltero,Madre de Dios,Profesor,30,95,0,Mínima
+870,55,74.5,1.53,F,7204,0,Casado,Callao,Economista,14,113,12,Mínima
+871,31,89.8,1.85,F,3854,2,Casado,Callao,Profesor,38,131,13,Mínima
+872,46,99.6,1.56,M,1338,3,Viudo,Amazonas,Administrador,1,140,54,Severa
+873,24,73.8,1.82,F,2218,4,Soltero,Apurímac,Enfermero,35,99,19,Leve
+874,34,71.2,2,F,2895,5,Viudo,Piura,Contador,9,107,3,Mínima
+875,63,66.8,1.75,M,8664,2,Casado,La Libertad,Desarrollador,35,82,47,Severa
+876,42,64.9,1.72,F,9038,2,Divorciado,Lima,Psicólogo,25,89,26,Moderada
+877,37,88.5,1.88,M,8982,2,Soltero,Callao,Psicólogo,34,105,34,Severa
+878,21,69.2,1.71,M,8135,1,Soltero,Ayacucho,Ingeniero,20,124,10,Mínima
+879,55,99.8,1.87,M,5522,3,Soltero,Cusco,Desarrollador,18,113,15,Leve
+880,19,73.6,1.7,M,5371,3,Soltero,Moquegua,Diseñador,21,77,28,Moderada
+881,36,55.2,1.62,F,9505,5,Divorciado,Lambayeque,Contador,3,124,4,Mínima
+882,63,65.8,1.54,M,1268,1,Viudo,Apurímac,Contador,34,84,22,Moderada
+883,55,57,1.51,F,8602,4,Divorciado,Cusco,Técnico,34,99,52,Severa
+884,62,82.5,1.53,M,2087,4,Viudo,Lima,Contador,12,101,17,Leve
+885,47,58.8,1.8,F,9263,3,Divorciado,Tacna,Ingeniero,37,84,18,Leve
+886,35,63.6,1.83,M,3229,4,Divorciado,Tumbes,Científico,15,94,12,Mínima
+887,56,80.5,1.79,M,4656,2,Casado,Huánuco,Desarrollador,39,110,59,Severa
+888,18,67.3,1.99,F,1537,1,Soltero,Ayacucho,Científico,27,121,13,Mínima
+889,46,57.2,1.71,F,7841,3,Viudo,Lima,Abogado,29,126,22,Moderada
+890,55,55,1.8,M,6469,5,Casado,Huancavelica,Abogado,7,73,57,Severa
+891,34,73.9,1.56,F,4882,0,Soltero,Tumbes,Profesor,38,76,14,Leve
+892,64,81.4,1.68,M,5723,3,Viudo,Moquegua,Arquitecto,31,89,31,Severa
+893,19,67.4,1.95,F,2131,2,Casado,Tumbes,Enfermero,2,110,62,Severa
+894,23,76.6,1.76,F,2574,0,Soltero,Callao,Técnico,35,73,56,Severa
+895,52,92.9,1.79,F,4624,2,Soltero,Apurímac,Abogado,3,120,59,Severa
+896,57,99.6,1.8,F,6977,3,Casado,Huancavelica,Periodista,30,132,63,Severa
+897,47,98.1,1.8,M,7050,0,Casado,Madre de Dios,Diseñador,21,82,35,Severa
+898,49,97.1,1.7,M,7699,0,Viudo,Ucayali,Psicólogo,20,91,42,Severa
+899,25,86,1.73,M,5536,0,Divorciado,Madre de Dios,Desarrollador,23,80,13,Mínima
+900,53,51.9,1.84,F,7361,5,Divorciado,Junín,Enfermero,1,118,55,Severa
+901,64,74.1,1.75,M,7934,2,Soltero,Lima,Economista,31,106,20,Moderada
+902,64,79.9,1.58,F,8084,2,Casado,Lambayeque,Abogado,2,115,8,Mínima
+903,60,75.4,1.64,M,4560,5,Divorciado,Ucayali,Científico,17,139,55,Severa
+904,35,71.4,1.57,F,9624,3,Soltero,Ayacucho,Profesor,26,124,30,Severa
+905,63,57.5,1.98,M,2892,2,Viudo,Junín,Desarrollador,31,75,5,Mínima
+906,23,74.3,1.99,F,9012,0,Casado,Áncash,Médico,38,109,37,Severa
+907,34,77.7,1.89,F,5465,5,Divorciado,Tumbes,Científico,8,89,14,Leve
+908,51,98.8,1.85,F,3690,2,Soltero,Pasco,Enfermero,15,132,36,Severa
+909,34,55.3,1.96,F,9015,5,Casado,Lambayeque,Periodista,40,116,17,Leve
+910,19,74.4,1.82,F,6243,3,Soltero,Callao,Psicólogo,19,78,62,Severa
+911,37,68.3,1.95,M,3375,2,Soltero,Moquegua,Abogado,37,113,48,Severa
+912,31,93.3,1.9,M,7696,2,Viudo,Ayacucho,Periodista,4,84,8,Mínima
+913,22,93.4,1.93,M,7811,2,Divorciado,Junín,Psicólogo,6,139,7,Mínima
+914,32,85.3,1.5,M,1479,0,Viudo,Tumbes,Ingeniero,39,120,37,Severa
+915,45,98.6,1.65,F,4081,2,Divorciado,Pasco,Ingeniero,31,124,53,Severa
+916,59,87.2,1.68,F,4995,5,Soltero,Junín,Técnico,19,92,15,Leve
+917,36,68.3,1.74,F,9240,5,Casado,Tacna,Administrador,18,106,43,Severa
+918,57,77.9,1.76,M,4464,3,Soltero,Arequipa,Administrador,10,137,35,Severa
+919,54,98.4,1.68,M,8044,0,Casado,Moquegua,Abogado,32,76,40,Severa
+920,37,80.3,1.85,F,6172,0,Divorciado,Puno,Administrador,27,130,24,Moderada
+921,55,58.9,1.54,M,6822,3,Casado,Huánuco,Científico,40,93,34,Severa
+922,47,82.5,1.55,F,9999,3,Viudo,Callao,Abogado,10,89,20,Moderada
+923,54,95,1.69,F,6862,5,Soltero,Piura,Desarrollador,14,75,17,Leve
+924,63,83.9,1.54,M,7455,4,Casado,Tacna,Científico,8,76,45,Severa
+925,54,72.1,1.93,M,5066,5,Soltero,La Libertad,Técnico,7,140,58,Severa
+926,65,95.4,1.94,M,1440,4,Casado,Huánuco,Psicólogo,15,71,21,Moderada
+927,55,52.4,1.96,M,9026,4,Soltero,Pasco,Abogado,5,80,7,Mínima
+928,36,78.2,1.6,M,9880,0,Soltero,Huancavelica,Abogado,2,119,47,Severa
+929,46,96.1,1.74,M,7146,2,Casado,Amazonas,Diseñador,34,100,57,Severa
+930,41,74.6,1.64,M,3798,4,Soltero,Pasco,Profesor,28,129,6,Mínima
+931,27,84.4,1.68,F,1847,5,Divorciado,Tacna,Profesor,27,117,13,Mínima
+932,22,94.5,1.51,M,9903,4,Viudo,Callao,Psicólogo,9,98,13,Mínima
+933,30,55.1,1.7,F,8786,3,Casado,Arequipa,Economista,40,135,15,Leve
+934,24,81.9,1.88,F,4319,0,Casado,Huánuco,Arquitecto,2,89,46,Severa
+935,31,79.7,1.8,F,8263,2,Divorciado,La Libertad,Abogado,16,90,1,Mínima
+936,34,65.7,1.7,M,3760,0,Divorciado,Madre de Dios,Profesor,13,105,36,Severa
+937,58,69.6,1.56,M,8016,2,Viudo,Amazonas,Economista,30,83,8,Mínima
+938,41,94.9,1.76,M,2654,5,Soltero,San Martín,Profesor,12,113,51,Severa
+939,33,81.9,1.52,F,1749,5,Divorciado,Tumbes,Economista,15,72,60,Severa
+940,46,83.7,1.96,M,8612,3,Casado,Áncash,Contador,33,76,4,Mínima
+941,35,68,1.83,M,4369,3,Divorciado,Madre de Dios,Periodista,37,118,59,Severa
+942,51,77.6,1.96,M,1379,1,Casado,Ica,Técnico,10,136,29,Severa
+943,18,81.8,1.99,F,2524,1,Viudo,Puno,Economista,12,114,26,Moderada
+944,42,75.6,1.92,M,5627,2,Viudo,Huánuco,Profesor,9,77,9,Mínima
+945,48,68.7,1.79,F,1899,2,Casado,La Libertad,Ingeniero,28,134,60,Severa
+946,59,88.4,1.86,M,8150,0,Divorciado,Pasco,Periodista,9,131,56,Severa
+947,30,79.4,1.62,M,2093,5,Soltero,Junín,Desarrollador,35,134,40,Severa
+948,65,62.3,1.9,M,5689,4,Divorciado,Ucayali,Científico,10,93,56,Severa
+949,35,72.4,1.92,M,6041,0,Divorciado,Tumbes,Periodista,2,75,17,Leve
+950,39,66.5,1.88,F,8900,5,Divorciado,Puno,Abogado,32,83,22,Moderada
+951,49,91.7,1.62,M,3053,4,Casado,Tacna,Administrador,17,104,13,Mínima
+952,48,73.2,1.52,M,6527,2,Divorciado,Tumbes,Contador,30,99,59,Severa
+953,58,98.4,1.94,M,4535,5,Viudo,San Martín,Diseñador,27,112,3,Mínima
+954,41,98.5,1.59,M,9866,3,Divorciado,Cajamarca,Psicólogo,16,138,54,Severa
+955,30,69.1,1.81,M,9690,0,Viudo,Cusco,Arquitecto,31,140,53,Severa
+956,61,92.1,1.93,F,5305,4,Viudo,Ayacucho,Economista,14,124,38,Severa
+957,46,69.3,1.82,M,9623,1,Soltero,Lambayeque,Contador,27,120,37,Severa
+958,44,66.2,1.7,M,3124,0,Casado,Apurímac,Profesor,0,113,28,Moderada
+959,37,59.1,1.63,F,7317,3,Soltero,Tacna,Periodista,24,81,39,Severa
+960,36,61.9,1.82,M,9360,5,Divorciado,San Martín,Psicólogo,36,108,21,Moderada
+961,38,56.5,1.58,M,5324,1,Viudo,Cusco,Economista,0,82,7,Mínima
+962,21,63.8,1.78,F,3510,2,Soltero,Puno,Diseñador,9,81,12,Mínima
+963,53,78.4,1.57,F,5166,3,Viudo,Ayacucho,Diseñador,1,115,58,Severa
+964,28,98.5,1.79,M,6933,5,Viudo,Apurímac,Arquitecto,12,82,4,Mínima
+965,39,65.3,1.5,M,7540,5,Divorciado,San Martín,Periodista,40,117,8,Mínima
+966,58,54.7,1.66,F,5800,3,Viudo,Lima,Abogado,11,77,52,Severa
+967,41,72.1,1.7,M,9603,3,Viudo,Arequipa,Contador,18,81,53,Severa
+968,30,99.9,1.54,M,3852,4,Soltero,Ayacucho,Psicólogo,40,114,27,Moderada
+969,52,69.6,1.72,F,7155,4,Soltero,Junín,Arquitecto,2,130,30,Severa
+970,36,66.4,1.95,F,5307,5,Viudo,Pasco,Ingeniero,8,73,44,Severa
+971,41,64.6,1.95,F,8804,3,Soltero,Amazonas,Médico,25,133,49,Severa
+972,36,67.2,1.84,F,6914,4,Viudo,Áncash,Técnico,40,100,48,Severa
+973,51,81.9,1.77,F,1782,1,Casado,Amazonas,Economista,6,117,31,Severa
+974,30,66.9,1.98,F,4265,1,Soltero,La Libertad,Abogado,9,74,11,Mínima
+975,60,82.1,1.91,M,2021,4,Soltero,Cajamarca,Periodista,19,101,43,Severa
+976,62,68.3,1.8,F,2354,1,Viudo,Piura,Profesor,34,81,50,Severa
+977,42,66.7,1.58,M,3608,0,Soltero,Madre de Dios,Contador,29,133,54,Severa
+978,35,77.1,1.77,F,3628,0,Viudo,Madre de Dios,Psicólogo,38,110,29,Severa
+979,44,68.6,1.84,F,9225,4,Viudo,Áncash,Psicólogo,14,140,34,Severa
+980,57,70.4,1.79,F,7354,4,Soltero,Ayacucho,Abogado,14,118,18,Leve
+981,36,83.9,1.89,F,6989,4,Divorciado,Tacna,Técnico,38,73,16,Leve
+982,43,83,1.96,M,2902,3,Soltero,Cajamarca,Desarrollador,7,71,30,Severa
+983,46,95.8,1.96,F,7218,2,Casado,Lambayeque,Abogado,11,95,18,Leve
+984,54,61.6,1.8,F,8371,4,Divorciado,Áncash,Periodista,26,106,15,Leve
+985,34,75,1.94,M,4535,2,Divorciado,Huancavelica,Periodista,7,107,1,Mínima
+986,32,93.7,1.86,F,5181,2,Divorciado,San Martín,Científico,9,86,26,Moderada
+987,58,94.8,1.58,F,6732,4,Viudo,Moquegua,Administrador,24,75,42,Severa
+988,22,56.6,1.82,M,3076,0,Casado,Huancavelica,Contador,15,131,23,Moderada
+989,38,95.4,1.79,M,8398,3,Divorciado,Tacna,Diseñador,31,70,2,Mínima
+990,31,62.8,1.75,F,3873,5,Divorciado,Puno,Administrador,10,92,27,Moderada
+991,27,66.1,1.61,F,3642,2,Viudo,Cusco,Abogado,6,115,35,Severa
+992,47,68.8,1.85,F,1558,5,Casado,Madre de Dios,Diseñador,9,136,1,Mínima
+993,53,70.7,1.65,M,6596,2,Casado,Amazonas,Periodista,26,88,39,Severa
+994,48,65.7,1.87,F,2674,3,Casado,La Libertad,Psicólogo,12,106,45,Severa
+995,20,90.9,1.6,M,1877,5,Divorciado,Pasco,Periodista,26,104,52,Severa
+996,21,86.6,1.98,M,9181,5,Casado,Apurímac,Ingeniero,16,120,31,Severa
+997,41,79.8,1.75,M,3504,1,Soltero,Ucayali,Economista,25,126,31,Severa
+998,19,64.6,1.64,M,9635,4,Casado,Áncash,Psicólogo,25,136,41,Severa
+999,42,70.6,1.89,M,9923,2,Divorciado,Callao,Ingeniero,5,108,6,Mínima
+1000,18,55.4,1.91,F,7449,3,Casado,Ica,Profesor,26,81,18,Leve
